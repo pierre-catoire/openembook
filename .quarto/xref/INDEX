@@ -1,0 +1,89 @@
+{
+  "index.qmd": {
+    "index.html": "db491f65"
+  },
+  "about.qmd": {
+    "about.html": "b7fa5fa6"
+  },
+  "ultrasound-course.qmd": {
+    "ultrasound-course.html": "eb7ecaed"
+  },
+  "ultrasound-course-AR.qmd": {
+    "ultrasound-course-AR.html": "652c3e73"
+  },
+  "ultrasound-course-UA.qmd": {
+    "ultrasound-course-UA.html": "68dafea3"
+  },
+  "ultrasound-course-FR.qmd": {
+    "ultrasound-course-FR.html": "234209cd"
+  },
+  "ultrasound-course-EN.qmd": {
+    "ultrasound-course-EN.html": "9bc87b37"
+  },
+  "dummy2.qmd": {
+    "dummy2.html": "f0bf20bc"
+  },
+  "dummy1.qmd": {
+    "dummy1.html": "e33880b3"
+  },
+  "dummy3.qmd": {
+    "dummy3.html": "8d678c1b"
+  },
+  "tutorials-1.qmd": {
+    "tutorials-1.html": "c1217175"
+  },
+  "tutorials.qmd": {
+    "tutorials.html": "2eb45110"
+  },
+  "tutorials-2.qmd": {
+    "tutorials-2.html": "e4761cb0"
+  },
+  "fundamentals.qmd": {
+    "fundamentals.html": "a716a6d1"
+  },
+  "howto.qmd": {
+    "howto.html": "955cb7b9"
+  },
+  "tutorial-1.qmd": {
+    "tutorial-1.html": "27484b26"
+  },
+  "tutorial-2.qmd": {
+    "tutorial-2.html": "766f2b92"
+  },
+  "reference.qmd": {
+    "reference.html": "9e8d4eef"
+  },
+  "us-meet-the-team.qmd": {
+    "us-meet-the-team.html": "d8e7a190"
+  },
+  "us-introduction.qmd": {
+    "us-introduction.html": "0a7afd05"
+  },
+  "us-content-and-objectives.qmd": {
+    "us-content-and-objectives.html": "94996aad"
+  },
+  "us-fundamentals.qmd": {
+    "us-fundamentals.html": "8764c117"
+  },
+  "us-prerequisites.qmd": {
+    "us-prerequisites.html": "667b178d"
+  },
+  "us-ultrasound-101.qmd": {
+    "us-ultrasound-101.html": "4dada86c"
+  },
+  "us-padr.qmd": {
+    "us-padr.html": "82c9973f"
+  },
+  "us-simplest.qmd": {
+    "us-simplest.html": "72a32284"
+  },
+  "us-more-on-reflection.qmd": {
+    "us-more-on-reflection.html": "3fcbf0c0"
+  },
+  "us-choose-of-probes.qmd": {
+    "us-choose-of-probes.html": "efbafc77"
+  },
+  "us-modes.qmd": {
+    "us-modes.html": "cb91c429"
+  }
+}

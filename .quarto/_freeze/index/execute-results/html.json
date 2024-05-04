@@ -1,0 +1,14 @@
+{
+  "hash": "94c1d89d1451ad368e8086bb71751b45",
+  "result": {
+    "markdown": "---\ntitle: \"Open EM Book\"\n---\n\n\nThis is the main page of the **Open Emergency Medicine Book** project.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
