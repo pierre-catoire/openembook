@@ -2,42 +2,30 @@
 title: "Take Home Messages"
 ---
 
-## But, what is an ultrasound?
-
-### Definition of ultrasounds
-
-First thing first: what is *precisely* an ultrasound?
-
-::: {.callout-note collapse="true"}
-## What is an ultrasound?
-
-An ultrasound is a **mechanical wave** (ie. cyclic variation of **air pressure** over **time** and **space**).
-:::
-
-### Amplitude, frequency, period
-
-The ultrasounds are characterised by two values: **amplitude** and **frequency**:
-
--   the **amplitude** is the highest pressure obtained at the peak of the wave
--   the **frequency** is the number of entire cycles per time unit. Frequency is mostly measured in **Hertz (Hz)**, indicating the number of cycles per **second**.
-
-The frequency is related to the **period** of the wave, which is the **duration** of a cycle. The frequency and period are related:
-
-$$
-Frequency = \frac{1}{Period}
-$$
-
-For example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds ($\frac{1}{2}$). A wave with a frequency of 40 Hz has a period of 0.025 seconds ($\frac{1}{40}$) or 25 milliseconds.
-
-### Energy of the ultrasounds
-
-The **energy** of an ultrasound depends on both the frequency and the amplitude:
-
--   the higher the frequency, the higher the energy
--   the higher the amplitude, the higher the energy
-
 ::: callout-tip
-## Why it matters?
+## Take Home Messages
 
-Choosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).
+-   Ultrasound are pressure waves propagating through tissues
+
+-   Ultrasound probe is able to emit and receive ultrasounds
+
+-   Ultrasounds are reflected by the tissues, when the incident ultrasound hits an interface (ie. a surface separating two media with different acoustic impedances)
+
+-   Ultrasound devices are able to determine position of tissue structures by calculating their distance from the probe, based on the time between emission of ultrasound and reception of echo (time of transit)
+
+-   Interface causing the most reflection is water-air, which reflect more than 99% of the incident ultrasound
+
+-   The probes must been chosen depending on the area of exploration, the possible obstacles and the needed depth. Most available probes include:
+
+    -   Linear high-frequency: for skin, superficial tissues, vessels, bones (sometimes pleura)
+
+    -   Curvilinear low frequency: for abdomen (sometimes pleura)
+
+    -   Sectorial (or phased array): for heart and brain (sometimes pleura)
+
+-   B-mode is the most-used ultrasound mode (sometimes called 2D-mode). TM mode is mostly used to measure speeds and range of motion
+
+-   Ultrasounds can generate artifacts, which must been taken into account for correct interpretation
+
+-   Although no case of ultrasound imaging-induced injury has been reported, potential biological effects of ultrasound justify to reduce the exposition to risk of mechanical or thermal injuries by adequate tuning and, sometimes, reduction of time of exposure
 :::
