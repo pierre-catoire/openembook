@@ -1,0 +1,44 @@
+---
+title: "Artifacts"
+---
+
+Artefacts are "illusions", ie. fake images produced by misinterpretation of echoes by the ultrasound machine.
+
+    ![An elephant](assets/b-lines-long.jpg){.lightbox}
+
+Understanding how artefacts appear and why help to:
+
+-   Avoid misinterpretation of the image produced
+-   Sometimes, artefacts can be interpretded as a positive sign: for example, the artefact called "B-lines" in pleural assessment excludes the presence of a pneumothorax (see below)
+
+## Shadowing artifact
+
+When ultrasound hits a target with an important reflection coefficient, the intensity of the transmitted ultrasound (ie. the ultrasound pursuing its path) is reduced. As a consequence, echoes coming from structures placed behind a structure with a strong reflection coefficient will appear as weaker, resulting in a "shadow beam" behind an interface with a strong white line.
+
+![Shadowing artifact](assets/shadowing-result.jpg){fig-align="center"}
+
+## A-lines: reflection artefacts
+
+When the emitted ultrasound wavefront hits an interface perpendicular to the direction of ultrasounds with a strong reflection coefficient (typically water-air, eg. pleural line), all the ultrasounds are reflected backwards. The reflection may be so intense that the reflected ultrasounds may be reflected **again** by the ultrasound probe itself, and come back to the interface, being reflected a second time (or even a third, fourth ...).
+
+In such case, the second reflection will reach the ultrasound probe after a time of transit **twice longer** than the initial reflection. This will be interpreted as a second interface, **twice the distance** from the probe, resulting in artifical parallel lines beyond the first line.
+
+::: {layout-ncol="2"}
+![Mechanism of production](assets/a-line-mechanism.jpg)
+
+![Result](assets/a-line-us.jpeg)
+:::
+
+## B-lines: reverberation artifacts
+
+B-lines are produced when an ultrasound enters in a tiny structure of water, surrounded by air. There, a lot of reflections will occur, resulting in a lot of ultrasounds getting out from the tiny structure back to the probe. These reflected ultrasounds will have a slightly longer time of transit (ie. time of transit from the probe to the structure, plus the time spend in the structure). This will result as small echoes, slightly beyond the echo of the main structure itself. As these small echoes pile up (because of various times spend in the structure), the overall results appears as a vertical line, aligned with the direction of emitted ultrasounds.
+
+This artifact typically appears when interstitial fluid appears in water-air interfaces. As an example, numerous B-lines in pleural ultrasound is a sign of interstitial lung edema (either infectious or hydrostatic).
+
+::: {layout-ncol="3"}
+![Mechanism of production](assets/b-line-mechanism.png)
+
+![Result (short B-lines)](assets/b-lines-small.jpg)
+
+![Result (long B-lines)](assets/b-lines-long.jpg)
+:::
