@@ -185,95 +185,36 @@
     ]
   },
   {
-    "objectID": "us-padr.html",
-    "href": "us-padr.html",
-    "title": "Propagation, attenuation, diffusion, reflection",
+    "objectID": "us-fundamentals-additional-resources.html",
+    "href": "us-fundamentals-additional-resources.html",
+    "title": "Dummy 3",
     "section": "",
-    "text": "As ultrasounds are mechanical waves, they travel through tissues by transmitting compression forces close to close. This is called propagation.\nBut, ultrasounds cannot travel on an infinite distance, because of attenuation. The energy is lost through the tissues by several phenomenons: dissipation, diffusion and reflection.",
+    "text": "Dummy page 3.",
     "crumbs": [
       "Ultrasound Course",
       "Fundamentals of Ultrasound",
-      "Propagation, attenuation, diffusion, reflection"
+      "Dummy 3"
     ]
   },
   {
-    "objectID": "us-padr.html#how-does-the-ultrasound-travels-through-the-tissues",
-    "href": "us-padr.html#how-does-the-ultrasound-travels-through-the-tissues",
-    "title": "Propagation, attenuation, diffusion, reflection",
+    "objectID": "howto.html",
+    "href": "howto.html",
+    "title": "Dummy 3",
     "section": "",
-    "text": "As ultrasounds are mechanical waves, they travel through tissues by transmitting compression forces close to close. This is called propagation.\nBut, ultrasounds cannot travel on an infinite distance, because of attenuation. The energy is lost through the tissues by several phenomenons: dissipation, diffusion and reflection.",
+    "text": "Dummy page 3.",
     "crumbs": [
-      "Ultrasound Course",
-      "Fundamentals of Ultrasound",
-      "Propagation, attenuation, diffusion, reflection"
+      "Dummy 3"
     ]
   },
   {
-    "objectID": "us-padr.html#attenuation-and-diffusion",
-    "href": "us-padr.html#attenuation-and-diffusion",
-    "title": "Propagation, attenuation, diffusion, reflection",
-    "section": "Attenuation and diffusion",
-    "text": "Attenuation and diffusion\nAs the ultrasound frontwave is spheric, it growths over distance and time. Hence, the energy is distributed on a wider surface and therefore, the amount of energy per surface unit on the wavefront is decreasing. This is called dissipation.\nFurthermore, as the motion of molecules is not perfectly orientated, ultrasounds create chaotic movement of the molecules (ie, brownian motion). This translates to heat in the system, which implies loss of energy of the wave. This is called diffusion.\n\n\n\n\n\n\nTip\n\n\n\nThe energy of ultrasound is attenuated, ie. decreased over time and distance, by:\n\ndissipation: spreading of the energy on a wider wavefront\ndiffusion: transfer of kinetic energy to heat in the tissues\n\n\n\n\n\n\n\n\n\nNote that:\n\n\n\nThe attenuation is dependent on the frequency: the higher the frequency, the higher the attenuation. Therefore:\n\nHigh frequencies are used for superficial exams\nLow frequencies are used for deep exams\n\n\n\nAs long as the ultrasound travels through an homogenous medium (e.g. water), its direction is only frontward. When the wavefront hits an object (ie, another medium, e.g. fat, bone, air), it splits the wave in two:\n\none is going back to the probe: it is the reflected wave\none is pursuing through the new medium: it is the transmitted wave\n\nNote that the sum of the energy of the two waves (reflected and transmitted) is equal to the energy of the incident wave.",
-    "crumbs": [
-      "Ultrasound Course",
-      "Fundamentals of Ultrasound",
-      "Propagation, attenuation, diffusion, reflection"
-    ]
-  },
-  {
-    "objectID": "us-fundamentals-test.html",
-    "href": "us-fundamentals-test.html",
-    "title": "Chapter test",
+    "objectID": "fundamentals.html",
+    "href": "fundamentals.html",
+    "title": "Dummy 3",
     "section": "",
-    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
+    "text": "Dummy page 3.",
     "crumbs": [
-      "Ultrasound Course",
-      "Fundamentals of Ultrasound",
-      "Chapter test"
+      "Dummy 3"
     ]
-  },
-  {
-    "objectID": "us-fundamentals-test.html#but-what-is-an-ultrasound",
-    "href": "us-fundamentals-test.html#but-what-is-an-ultrasound",
-    "title": "Chapter test",
-    "section": "",
-    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
-    "crumbs": [
-      "Ultrasound Course",
-      "Fundamentals of Ultrasound",
-      "Chapter test"
-    ]
-  },
-  {
-    "objectID": "us-meet-the-team.html",
-    "href": "us-meet-the-team.html",
-    "title": "Meet the team",
-    "section": "",
-    "text": "Pierre Catoire, MD, MSc, emergency doctor: course creator and international coordinator\n\n\n\n\n\n\n\nVitalii Mahlovayi, MD, general surgeon: Course coordinator for Ukraine\n\n\n\n\n\n…",
-    "crumbs": [
-      "Ultrasound Course",
-      "Introduction",
-      "Meet the team"
-    ]
-  },
-  {
-    "objectID": "us-meet-the-team.html#who-are-the-instructors",
-    "href": "us-meet-the-team.html#who-are-the-instructors",
-    "title": "Meet the team",
-    "section": "",
-    "text": "Pierre Catoire, MD, MSc, emergency doctor: course creator and international coordinator\n\n\n\n\n\n\n\nVitalii Mahlovayi, MD, general surgeon: Course coordinator for Ukraine\n\n\n\n\n\n…",
-    "crumbs": [
-      "Ultrasound Course",
-      "Introduction",
-      "Meet the team"
-    ]
-  },
-  {
-    "objectID": "tutorials.html",
-    "href": "tutorials.html",
-    "title": "Dummy 1",
-    "section": "",
-    "text": "Dummy page 1."
   },
   {
     "objectID": "us-more-on-reflection.html",
@@ -312,23 +253,94 @@
     ]
   },
   {
-    "objectID": "fundamentals.html",
-    "href": "fundamentals.html",
-    "title": "Dummy 3",
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "Dummy 1",
     "section": "",
-    "text": "Dummy page 3.",
+    "text": "Dummy page 1."
+  },
+  {
+    "objectID": "us-meet-the-team.html",
+    "href": "us-meet-the-team.html",
+    "title": "Meet the team",
+    "section": "",
+    "text": "Pierre Catoire, MD, MSc, emergency doctor: course creator and international coordinator\n\n\n\n\n\n\n\nVitalii Mahlovayi, MD, general surgeon: Course coordinator for Ukraine\n\n\n\n\n\n…",
     "crumbs": [
-      "Dummy 3"
+      "Ultrasound Course",
+      "Introduction",
+      "Meet the team"
     ]
   },
   {
-    "objectID": "howto.html",
-    "href": "howto.html",
-    "title": "Dummy 3",
+    "objectID": "us-meet-the-team.html#who-are-the-instructors",
+    "href": "us-meet-the-team.html#who-are-the-instructors",
+    "title": "Meet the team",
     "section": "",
-    "text": "Dummy page 3.",
+    "text": "Pierre Catoire, MD, MSc, emergency doctor: course creator and international coordinator\n\n\n\n\n\n\n\nVitalii Mahlovayi, MD, general surgeon: Course coordinator for Ukraine\n\n\n\n\n\n…",
     "crumbs": [
-      "Dummy 3"
+      "Ultrasound Course",
+      "Introduction",
+      "Meet the team"
+    ]
+  },
+  {
+    "objectID": "us-fundamentals-test.html",
+    "href": "us-fundamentals-test.html",
+    "title": "Chapter test",
+    "section": "",
+    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Chapter test"
+    ]
+  },
+  {
+    "objectID": "us-fundamentals-test.html#but-what-is-an-ultrasound",
+    "href": "us-fundamentals-test.html#but-what-is-an-ultrasound",
+    "title": "Chapter test",
+    "section": "",
+    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Chapter test"
+    ]
+  },
+  {
+    "objectID": "us-padr.html",
+    "href": "us-padr.html",
+    "title": "Propagation, attenuation, diffusion, reflection",
+    "section": "",
+    "text": "As ultrasounds are mechanical waves, they travel through tissues by transmitting compression forces close to close. This is called propagation.\nBut, ultrasounds cannot travel on an infinite distance, because of attenuation. The energy is lost through the tissues by several phenomenons: dissipation, diffusion and reflection.",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Propagation, attenuation, diffusion, reflection"
+    ]
+  },
+  {
+    "objectID": "us-padr.html#how-does-the-ultrasound-travels-through-the-tissues",
+    "href": "us-padr.html#how-does-the-ultrasound-travels-through-the-tissues",
+    "title": "Propagation, attenuation, diffusion, reflection",
+    "section": "",
+    "text": "As ultrasounds are mechanical waves, they travel through tissues by transmitting compression forces close to close. This is called propagation.\nBut, ultrasounds cannot travel on an infinite distance, because of attenuation. The energy is lost through the tissues by several phenomenons: dissipation, diffusion and reflection.",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Propagation, attenuation, diffusion, reflection"
+    ]
+  },
+  {
+    "objectID": "us-padr.html#attenuation-and-diffusion",
+    "href": "us-padr.html#attenuation-and-diffusion",
+    "title": "Propagation, attenuation, diffusion, reflection",
+    "section": "Attenuation and diffusion",
+    "text": "Attenuation and diffusion\nAs the ultrasound frontwave is spheric, it growths over distance and time. Hence, the energy is distributed on a wider surface and therefore, the amount of energy per surface unit on the wavefront is decreasing. This is called dissipation.\nFurthermore, as the motion of molecules is not perfectly orientated, ultrasounds create chaotic movement of the molecules (ie, brownian motion). This translates to heat in the system, which implies loss of energy of the wave. This is called diffusion.\n\n\n\n\n\n\nTip\n\n\n\nThe energy of ultrasound is attenuated, ie. decreased over time and distance, by:\n\ndissipation: spreading of the energy on a wider wavefront\ndiffusion: transfer of kinetic energy to heat in the tissues\n\n\n\n\n\n\n\n\n\nNote that:\n\n\n\nThe attenuation is dependent on the frequency: the higher the frequency, the higher the attenuation. Therefore:\n\nHigh frequencies are used for superficial exams\nLow frequencies are used for deep exams\n\n\n\nAs long as the ultrasound travels through an homogenous medium (e.g. water), its direction is only frontward. When the wavefront hits an object (ie, another medium, e.g. fat, bone, air), it splits the wave in two:\n\none is going back to the probe: it is the reflected wave\none is pursuing through the new medium: it is the transmitted wave\n\nNote that the sum of the energy of the two waves (reflected and transmitted) is equal to the energy of the incident wave.",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Propagation, attenuation, diffusion, reflection"
     ]
   },
   {
