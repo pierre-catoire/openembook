@@ -69,35 +69,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -272,12 +243,9 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#but-what-is-an-ultrasound" id="toc-but-what-is-an-ultrasound" class="nav-link active" data-scroll-target="#but-what-is-an-ultrasound">But, what is an ultrasound?</a>
-  <ul class="collapse">
-  <li><a href="#definition-of-ultrasounds" id="toc-definition-of-ultrasounds" class="nav-link" data-scroll-target="#definition-of-ultrasounds">Definition of ultrasounds</a></li>
-  <li><a href="#amplitude-frequency-period" id="toc-amplitude-frequency-period" class="nav-link" data-scroll-target="#amplitude-frequency-period">Amplitude, frequency, period</a></li>
-  <li><a href="#energy-of-the-ultrasounds" id="toc-energy-of-the-ultrasounds" class="nav-link" data-scroll-target="#energy-of-the-ultrasounds">Energy of the ultrasounds</a></li>
-  </ul></li>
+  <li><a href="#what-are-the-potential-adverse-effects-of-ultrasound" id="toc-what-are-the-potential-adverse-effects-of-ultrasound" class="nav-link active" data-scroll-target="#what-are-the-potential-adverse-effects-of-ultrasound">What are the potential adverse effects of ultrasound?</a></li>
+  <li><a href="#mechanical-effects" id="toc-mechanical-effects" class="nav-link" data-scroll-target="#mechanical-effects">Mechanical effects</a></li>
+  <li><a href="#thermal-effects" id="toc-thermal-effects" class="nav-link" data-scroll-target="#thermal-effects">Thermal effects</a></li>
   </ul>
 </nav>
     </div>
@@ -303,64 +271,68 @@ window.Quarto = {
 </header>
 
 
-<section id="but-what-is-an-ultrasound" class="level2">
-<h2 class="anchored" data-anchor-id="but-what-is-an-ultrasound">But, what is an ultrasound?</h2>
-<section id="definition-of-ultrasounds" class="level3">
-<h3 class="anchored" data-anchor-id="definition-of-ultrasounds">Definition of ultrasounds</h3>
-<p>First thing first: what is <em>precisely</em> an ultrasound?</p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-What is an ultrasound?
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p>An ultrasound is a <strong>mechanical wave</strong> (ie. cyclic variation of <strong>air pressure</strong> over <strong>time</strong> and <strong>space</strong>).</p>
-</div>
-</div>
-</div>
-</section>
-<section id="amplitude-frequency-period" class="level3">
-<h3 class="anchored" data-anchor-id="amplitude-frequency-period">Amplitude, frequency, period</h3>
-<p>The ultrasounds are characterised by two values: <strong>amplitude</strong> and <strong>frequency</strong>:</p>
-<ul>
-<li>the <strong>amplitude</strong> is the highest pressure obtained at the peak of the wave</li>
-<li>the <strong>frequency</strong> is the number of entire cycles per time unit. Frequency is mostly measured in <strong>Hertz (Hz)</strong>, indicating the number of cycles per <strong>second</strong>.</li>
-</ul>
-<p>The frequency is related to the <strong>period</strong> of the wave, which is the <strong>duration</strong> of a cycle. The frequency and period are related:</p>
-<p><span class="math display">\[
-Frequency = \frac{1}{Period}
-\]</span></p>
-<p>For example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (<span class="math inline">\(\frac{1}{2}\)</span>). A wave with a frequency of 40 Hz has a period of 0.025 seconds (<span class="math inline">\(\frac{1}{40}\)</span>) or 25 milliseconds.</p>
-</section>
-<section id="energy-of-the-ultrasounds" class="level3">
-<h3 class="anchored" data-anchor-id="energy-of-the-ultrasounds">Energy of the ultrasounds</h3>
-<p>The <strong>energy</strong> of an ultrasound depends on both the frequency and the amplitude:</p>
-<ul>
-<li>the higher the frequency, the higher the energy</li>
-<li>the higher the amplitude, the higher the energy</li>
-</ul>
-<div class="callout callout-style-default callout-tip callout-titled">
+<section id="what-are-the-potential-adverse-effects-of-ultrasound" class="level2">
+<h2 class="anchored" data-anchor-id="what-are-the-potential-adverse-effects-of-ultrasound">What are the potential adverse effects of ultrasound?</h2>
+<p>As for now, no case of ultrasound-related injury secondary to medical imaging has been reported. However, theoretical principles suggest that there may be adverse effects of ultrasound imaging if the device is not set properly. A precaution principle imposes therefore to pay attention to the device settings and to monitor the potential effects of the ultrasounds.</p>
+<div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Why it matters?
+Warning
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Choosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).</p>
+<p><strong>Theoretical</strong> adverse effects of ultrasound imaging include:</p>
+<ul>
+<li>Mechanical effects</li>
+<li>Thermal effects</li>
+</ul>
 </div>
 </div>
-
-
 </section>
+<section id="mechanical-effects" class="level2">
+<h2 class="anchored" data-anchor-id="mechanical-effects">Mechanical effects</h2>
+<p>When ultrasounds propagate through water, they create shear forces of compression and dilation. When these forces are high enough, they can result in <strong>cavitation</strong>, causing damage to surrounding tissues.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/us-cavitation.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>Risk of mechanical damages is increased by:</p>
+<ul>
+<li>High amplitude</li>
+<li>Low frequency: high frequencies do not allow enough time for the cavitation to appear</li>
+<li>High Pulse Rate Frequency (PRF, ie. number of ultrasound wavefronts emitted per second)</li>
+<li>Narrower scan area (causing more pulses per second)</li>
+<li>Narrow focus</li>
+</ul>
+<p>In daily practice, risk of mechanical injury is monitored by the <strong>Mechanical Index (MI)</strong>. Guidelines recommend to maintain:</p>
+<ul>
+<li>MI lower than 1.9 in any case, and lower than 0.23 for ophtalmology exam</li>
+<li>For obstetrics: maintain MI under 0.7 in any case, and reduce time of exposure for MIs between 0.3 and 0.7</li>
+</ul>
+</section>
+<section id="thermal-effects" class="level2">
+<h2 class="anchored" data-anchor-id="thermal-effects">Thermal effects</h2>
+<p>Energy dispersed among tissues by ultrasound result in increase of heat. Tissue sensitivity to such effect is heterogenous, with bones, lens, cornea, tendons and adipose tissues being the most sensitive.</p>
+<p>Risk of thermal damages is increased by:</p>
+<ul>
+<li>Higher frequency</li>
+<li>Higher amplitude</li>
+<li>Longer pulse duration</li>
+<li>Longer time of exposure</li>
+<li>Narrower scan area</li>
+<li>Narrow focus</li>
+</ul>
+<p>Risk of thermal injury is monitored by the <strong>Thermal Index (TI)</strong>. Guidelines recommend to:</p>
+<ul>
+<li>Maintain TI under 3.0 in any case</li>
+<li>Reduce time exposure as low as possible for TI between 0.7 and 3.0</li>
+</ul>
+
+
 </section>
 
 </main> <!-- /main -->

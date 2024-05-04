@@ -410,7 +410,7 @@
     "href": "us-adverse-effects.html",
     "title": "Adverse effects",
     "section": "",
-    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
+    "text": "As for now, no case of ultrasound-related injury secondary to medical imaging has been reported. However, theoretical principles suggest that there may be adverse effects of ultrasound imaging if the device is not set properly. A precaution principle imposes therefore to pay attention to the device settings and to monitor the potential effects of the ultrasounds.\n\n\n\n\n\n\nWarning\n\n\n\nTheoretical adverse effects of ultrasound imaging include:\n\nMechanical effects\nThermal effects",
     "crumbs": [
       "Ultrasound Course",
       "Fundamentals of Ultrasound",
@@ -418,11 +418,35 @@
     ]
   },
   {
-    "objectID": "us-adverse-effects.html#but-what-is-an-ultrasound",
-    "href": "us-adverse-effects.html#but-what-is-an-ultrasound",
+    "objectID": "us-adverse-effects.html#what-are-the-potential-adverse-effects-of-ultrasound",
+    "href": "us-adverse-effects.html#what-are-the-potential-adverse-effects-of-ultrasound",
     "title": "Adverse effects",
     "section": "",
-    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
+    "text": "As for now, no case of ultrasound-related injury secondary to medical imaging has been reported. However, theoretical principles suggest that there may be adverse effects of ultrasound imaging if the device is not set properly. A precaution principle imposes therefore to pay attention to the device settings and to monitor the potential effects of the ultrasounds.\n\n\n\n\n\n\nWarning\n\n\n\nTheoretical adverse effects of ultrasound imaging include:\n\nMechanical effects\nThermal effects",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Adverse effects"
+    ]
+  },
+  {
+    "objectID": "us-adverse-effects.html#mechanical-effects",
+    "href": "us-adverse-effects.html#mechanical-effects",
+    "title": "Adverse effects",
+    "section": "Mechanical effects",
+    "text": "Mechanical effects\nWhen ultrasounds propagate through water, they create shear forces of compression and dilation. When these forces are high enough, they can result in cavitation, causing damage to surrounding tissues.\n\n\n\n\n\nRisk of mechanical damages is increased by:\n\nHigh amplitude\nLow frequency: high frequencies do not allow enough time for the cavitation to appear\nHigh Pulse Rate Frequency (PRF, ie. number of ultrasound wavefronts emitted per second)\nNarrower scan area (causing more pulses per second)\nNarrow focus\n\nIn daily practice, risk of mechanical injury is monitored by the Mechanical Index (MI). Guidelines recommend to maintain:\n\nMI lower than 1.9 in any case, and lower than 0.23 for ophtalmology exam\nFor obstetrics: maintain MI under 0.7 in any case, and reduce time of exposure for MIs between 0.3 and 0.7",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Adverse effects"
+    ]
+  },
+  {
+    "objectID": "us-adverse-effects.html#thermal-effects",
+    "href": "us-adverse-effects.html#thermal-effects",
+    "title": "Adverse effects",
+    "section": "Thermal effects",
+    "text": "Thermal effects\nEnergy dispersed among tissues by ultrasound result in increase of heat. Tissue sensitivity to such effect is heterogenous, with bones, lens, cornea, tendons and adipose tissues being the most sensitive.\nRisk of thermal damages is increased by:\n\nHigher frequency\nHigher amplitude\nLonger pulse duration\nLonger time of exposure\nNarrower scan area\nNarrow focus\n\nRisk of thermal injury is monitored by the Thermal Index (TI). Guidelines recommend to:\n\nMaintain TI under 3.0 in any case\nReduce time exposure as low as possible for TI between 0.7 and 3.0",
     "crumbs": [
       "Ultrasound Course",
       "Fundamentals of Ultrasound",
