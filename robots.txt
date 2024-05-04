@@ -1,0 +1,1 @@
+Sitemap: https://pierre-catoire.github.io/openembook/sitemap.xml
