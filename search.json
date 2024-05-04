@@ -70,39 +70,51 @@
     ]
   },
   {
-    "objectID": "us-content-and-objectives.html",
-    "href": "us-content-and-objectives.html",
-    "title": "Contents and objectives",
+    "objectID": "us-fundamentals-thm.html",
+    "href": "us-fundamentals-thm.html",
+    "title": "Take Home Messages",
     "section": "",
-    "text": "The design of this level-1 course required to balance between different constraints:\n\na short, focused training program, in order to reach the maximum of trainees, but long enough to provide all the essential knowledge and skills\nteaching skills useful in everyday practice, but accessible to students with no or little experience\ngiving the theoretical background to make students being able to pursue the learning process on their own, but without loosing them with fluffy details\nadapting the learning objectives to the country’s specificities, including healthcare system organisation, differences between specialties, restrictions of access to other imaging techniques …\n\nThis is why, even if the course content is the same, the live sessions are specific to the area we operate.",
+    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
     "crumbs": [
       "Ultrasound Course",
-      "Introduction",
-      "Contents and objectives"
+      "Fundamentals of Ultrasound",
+      "Take Home Messages"
     ]
   },
   {
-    "objectID": "us-content-and-objectives.html#what-will-i-learn",
-    "href": "us-content-and-objectives.html#what-will-i-learn",
-    "title": "Contents and objectives",
+    "objectID": "us-fundamentals-thm.html#but-what-is-an-ultrasound",
+    "href": "us-fundamentals-thm.html#but-what-is-an-ultrasound",
+    "title": "Take Home Messages",
     "section": "",
-    "text": "The design of this level-1 course required to balance between different constraints:\n\na short, focused training program, in order to reach the maximum of trainees, but long enough to provide all the essential knowledge and skills\nteaching skills useful in everyday practice, but accessible to students with no or little experience\ngiving the theoretical background to make students being able to pursue the learning process on their own, but without loosing them with fluffy details\nadapting the learning objectives to the country’s specificities, including healthcare system organisation, differences between specialties, restrictions of access to other imaging techniques …\n\nThis is why, even if the course content is the same, the live sessions are specific to the area we operate.",
+    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
     "crumbs": [
       "Ultrasound Course",
-      "Introduction",
-      "Contents and objectives"
+      "Fundamentals of Ultrasound",
+      "Take Home Messages"
     ]
   },
   {
-    "objectID": "us-content-and-objectives.html#course-objectives-and-modules",
-    "href": "us-content-and-objectives.html#course-objectives-and-modules",
-    "title": "Contents and objectives",
-    "section": "Course objectives and modules",
-    "text": "Course objectives and modules\n\nGeneral objectives\nAt the end of this course, you will be able to:\n\nexplain how an echograph uses ultrasounds to create both static and dynamic images\nchoose the adequate probe, mode and settings\nmanipulate the ultrasound probe to obtain the needed view\nexplore different body sections (chest, abdomen, limbs) to identify life-threatening injuries\nguide insertion of catheter with ultrasound\nintegrate the ultrasound observation into clinical decision-making\nenhance clinical triage of wounded using ultrasound assessment\n\n\n\nSpecific objectives by module\n\nModule 1: Fundamentals of ultrasound\n\nWhat is an ultrasound\nHow ultrasounds are emitted, propagated, diffused, transmitted, reflected and transducted\nHow is produced the image shown on screen\nHow to choose the adequate probe\nHow to choose the adequate mode\nHow to interpret ultrasound artefacts\nWhat are the adverse effects of ultrasound\n\n\n\nModule 2: Handling the probe\n\nHow to prepare the patient and yourself for an ultrasound exam\nHow to set the ultrasound device to obtain the best image quality\nOrientating the view shown on screen\nMove the probe to find the best view\n\n\n\nModule 3: Abdomen\n\nIdentify intraperitoneal free fluid using the FAST protocol\nIdentify signs of renal pelvis dilatation\nIdentify abdominal aortic aneuvrism\nIdentify US-guided Murphy sign for cholelithiasis or cholecystitis\nLook for intrauterine pregnancy\n\n\n\nModule 4: Lungs\n\nExplain what are the significance of lung ultrasound semiology: A-lines, B-lines, lung sliding, lung point, free fluid, condensation\nIntegrate these signs to diagnose: pneumothorax, hemothorax, cardiogenic edema, pneumonia\n\n\n\nModule 5: Bones and tissues\n\nDescribe on which bones and which kind of fractures can be diagnosed with ultrasound\nIdentify a fracture on these bones\nIdentify a foreign body in soft tissues\n\n\n\nModule 6: Heart\n\nObtain the main views of the heart: parasternal long and short axis, apical (4-chamber), subcostal\nAssess the left ventricular ejection fraction by both visual semi-quantitative and MAPSE methods\nLook for signs of severe acute pulmonary embolism\nIdentify free pericardial fluid\nIdentify signs of massive valvular regurgitation\nMeasure the inferior vena cava diameter and collapsibility\n\n\n\nModule 7: Vessels\n\nVisualize and follow arteries and veins\nDiagnose deep vein thrombosis\nGuide a puncture in a vessel through both in-plane, out-of-plane and oblique approaches\n\n\n\nThe T-FAST protocol\n\nDescribe what is the T-FAST protocol and why it has been designed\nDescribe the potential and limits of the T-FAST protocol\nHow to use the T-FAST for individual patient assessment and triage",
+    "objectID": "us-simplest.html",
+    "href": "us-simplest.html",
+    "title": "A simple model for ultrasound imaging",
+    "section": "",
+    "text": "So far, we’ve seen that ultrasounds are mechanical waves (variations of pressure transmitted near to near) which propagate through tissues, slowly loosing energy from attenuation (both by dissipation and diffusion). When the ultrasound hits a target, it splits into a transmitted wave pursuing its trajectory, and a reflected wave travelling back to the probe.\nBased on these informations, could you guess how basically an ultrasound device can locate targets in the body?\n\n\n\n\n\n\nAnswer\n\n\n\n\n\nThe ultrasound identifies targets by:\n\nemitting ultrasound\nreceiving reflected waves\nmeasuring the time of travel of the ultrasound (ie. the time between emission and reception of reflected waves)\ncalculating the distance of the target hit by the formula:\n\n\\[\nDistance = \\frac{Transit \\ time}{2} \\times Speed\n\\]\n\n\n\nBy emitting ultrasounds in various directions, the ultrasound probe can identify targets in the all exploration space. Thereafter, the ultrasound device plots the image by representing any echo (ie. reflected ultrasound) by a white dot, creating an image representing the explorated section of the body.\nHowever, more details are required to understand more precisely how the ultrasound device works:\n\non what depends the intensity of the reflection?\nwhat happens if a second target is beyond the first one?\nHow does the probe emits ultrasounds in different directions?",
     "crumbs": [
       "Ultrasound Course",
-      "Introduction",
-      "Contents and objectives"
+      "Fundamentals of Ultrasound",
+      "A simple model for ultrasound imaging"
+    ]
+  },
+  {
+    "objectID": "us-simplest.html#a-brief-recap",
+    "href": "us-simplest.html#a-brief-recap",
+    "title": "A simple model for ultrasound imaging",
+    "section": "",
+    "text": "So far, we’ve seen that ultrasounds are mechanical waves (variations of pressure transmitted near to near) which propagate through tissues, slowly loosing energy from attenuation (both by dissipation and diffusion). When the ultrasound hits a target, it splits into a transmitted wave pursuing its trajectory, and a reflected wave travelling back to the probe.\nBased on these informations, could you guess how basically an ultrasound device can locate targets in the body?\n\n\n\n\n\n\nAnswer\n\n\n\n\n\nThe ultrasound identifies targets by:\n\nemitting ultrasound\nreceiving reflected waves\nmeasuring the time of travel of the ultrasound (ie. the time between emission and reception of reflected waves)\ncalculating the distance of the target hit by the formula:\n\n\\[\nDistance = \\frac{Transit \\ time}{2} \\times Speed\n\\]\n\n\n\nBy emitting ultrasounds in various directions, the ultrasound probe can identify targets in the all exploration space. Thereafter, the ultrasound device plots the image by representing any echo (ie. reflected ultrasound) by a white dot, creating an image representing the explorated section of the body.\nHowever, more details are required to understand more precisely how the ultrasound device works:\n\non what depends the intensity of the reflection?\nwhat happens if a second target is beyond the first one?\nHow does the probe emits ultrasounds in different directions?",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "A simple model for ultrasound imaging"
     ]
   },
   {
@@ -221,14 +233,59 @@
     ]
   },
   {
-    "objectID": "fundamentals.html",
-    "href": "fundamentals.html",
-    "title": "Dummy 3",
+    "objectID": "us-fundamentals-test.html",
+    "href": "us-fundamentals-test.html",
+    "title": "Chapter test",
     "section": "",
-    "text": "Dummy page 3.",
+    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
     "crumbs": [
-      "Dummy 3"
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Chapter test"
     ]
+  },
+  {
+    "objectID": "us-fundamentals-test.html#but-what-is-an-ultrasound",
+    "href": "us-fundamentals-test.html#but-what-is-an-ultrasound",
+    "title": "Chapter test",
+    "section": "",
+    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Chapter test"
+    ]
+  },
+  {
+    "objectID": "us-meet-the-team.html",
+    "href": "us-meet-the-team.html",
+    "title": "Meet the team",
+    "section": "",
+    "text": "Pierre Catoire, MD, MSc, emergency doctor: course creator and international coordinator\n\n\n\n\n\n\n\nVitalii Mahlovayi, MD, general surgeon: Course coordinator for Ukraine\n\n\n\n\n\n…",
+    "crumbs": [
+      "Ultrasound Course",
+      "Introduction",
+      "Meet the team"
+    ]
+  },
+  {
+    "objectID": "us-meet-the-team.html#who-are-the-instructors",
+    "href": "us-meet-the-team.html#who-are-the-instructors",
+    "title": "Meet the team",
+    "section": "",
+    "text": "Pierre Catoire, MD, MSc, emergency doctor: course creator and international coordinator\n\n\n\n\n\n\n\nVitalii Mahlovayi, MD, general surgeon: Course coordinator for Ukraine\n\n\n\n\n\n…",
+    "crumbs": [
+      "Ultrasound Course",
+      "Introduction",
+      "Meet the team"
+    ]
+  },
+  {
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "Dummy 1",
+    "section": "",
+    "text": "Dummy page 1."
   },
   {
     "objectID": "us-more-on-reflection.html",
@@ -267,34 +324,13 @@
     ]
   },
   {
-    "objectID": "tutorials.html",
-    "href": "tutorials.html",
-    "title": "Dummy 1",
+    "objectID": "fundamentals.html",
+    "href": "fundamentals.html",
+    "title": "Dummy 3",
     "section": "",
-    "text": "Dummy page 1."
-  },
-  {
-    "objectID": "us-meet-the-team.html",
-    "href": "us-meet-the-team.html",
-    "title": "Meet the team",
-    "section": "",
-    "text": "Pierre Catoire, MD, MSc, emergency doctor: course creator and international coordinator\n\n\n\n\n\n\n\nVitalii Mahlovayi, MD, general surgeon: Course coordinator for Ukraine\n\n\n\n\n\n…",
+    "text": "Dummy page 3.",
     "crumbs": [
-      "Ultrasound Course",
-      "Introduction",
-      "Meet the team"
-    ]
-  },
-  {
-    "objectID": "us-meet-the-team.html#who-are-the-instructors",
-    "href": "us-meet-the-team.html#who-are-the-instructors",
-    "title": "Meet the team",
-    "section": "",
-    "text": "Pierre Catoire, MD, MSc, emergency doctor: course creator and international coordinator\n\n\n\n\n\n\n\nVitalii Mahlovayi, MD, general surgeon: Course coordinator for Ukraine\n\n\n\n\n\n…",
-    "crumbs": [
-      "Ultrasound Course",
-      "Introduction",
-      "Meet the team"
+      "Dummy 3"
     ]
   },
   {
@@ -370,27 +406,63 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "us-simplest.html",
-    "href": "us-simplest.html",
-    "title": "A simple model for ultrasound imaging",
+    "objectID": "us-adverse-effects.html",
+    "href": "us-adverse-effects.html",
+    "title": "Adverse effects",
     "section": "",
-    "text": "So far, we’ve seen that ultrasounds are mechanical waves (variations of pressure transmitted near to near) which propagate through tissues, slowly loosing energy from attenuation (both by dissipation and diffusion). When the ultrasound hits a target, it splits into a transmitted wave pursuing its trajectory, and a reflected wave travelling back to the probe.\nBased on these informations, could you guess how basically an ultrasound device can locate targets in the body?\n\n\n\n\n\n\nAnswer\n\n\n\n\n\nThe ultrasound identifies targets by:\n\nemitting ultrasound\nreceiving reflected waves\nmeasuring the time of travel of the ultrasound (ie. the time between emission and reception of reflected waves)\ncalculating the distance of the target hit by the formula:\n\n\\[\nDistance = \\frac{Transit \\ time}{2} \\times Speed\n\\]\n\n\n\nBy emitting ultrasounds in various directions, the ultrasound probe can identify targets in the all exploration space. Thereafter, the ultrasound device plots the image by representing any echo (ie. reflected ultrasound) by a white dot, creating an image representing the explorated section of the body.\nHowever, more details are required to understand more precisely how the ultrasound device works:\n\non what depends the intensity of the reflection?\nwhat happens if a second target is beyond the first one?\nHow does the probe emits ultrasounds in different directions?",
+    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
     "crumbs": [
       "Ultrasound Course",
       "Fundamentals of Ultrasound",
-      "A simple model for ultrasound imaging"
+      "Adverse effects"
     ]
   },
   {
-    "objectID": "us-simplest.html#a-brief-recap",
-    "href": "us-simplest.html#a-brief-recap",
-    "title": "A simple model for ultrasound imaging",
+    "objectID": "us-adverse-effects.html#but-what-is-an-ultrasound",
+    "href": "us-adverse-effects.html#but-what-is-an-ultrasound",
+    "title": "Adverse effects",
     "section": "",
-    "text": "So far, we’ve seen that ultrasounds are mechanical waves (variations of pressure transmitted near to near) which propagate through tissues, slowly loosing energy from attenuation (both by dissipation and diffusion). When the ultrasound hits a target, it splits into a transmitted wave pursuing its trajectory, and a reflected wave travelling back to the probe.\nBased on these informations, could you guess how basically an ultrasound device can locate targets in the body?\n\n\n\n\n\n\nAnswer\n\n\n\n\n\nThe ultrasound identifies targets by:\n\nemitting ultrasound\nreceiving reflected waves\nmeasuring the time of travel of the ultrasound (ie. the time between emission and reception of reflected waves)\ncalculating the distance of the target hit by the formula:\n\n\\[\nDistance = \\frac{Transit \\ time}{2} \\times Speed\n\\]\n\n\n\nBy emitting ultrasounds in various directions, the ultrasound probe can identify targets in the all exploration space. Thereafter, the ultrasound device plots the image by representing any echo (ie. reflected ultrasound) by a white dot, creating an image representing the explorated section of the body.\nHowever, more details are required to understand more precisely how the ultrasound device works:\n\non what depends the intensity of the reflection?\nwhat happens if a second target is beyond the first one?\nHow does the probe emits ultrasounds in different directions?",
+    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
     "crumbs": [
       "Ultrasound Course",
       "Fundamentals of Ultrasound",
-      "A simple model for ultrasound imaging"
+      "Adverse effects"
+    ]
+  },
+  {
+    "objectID": "us-content-and-objectives.html",
+    "href": "us-content-and-objectives.html",
+    "title": "Contents and objectives",
+    "section": "",
+    "text": "The design of this level-1 course required to balance between different constraints:\n\na short, focused training program, in order to reach the maximum of trainees, but long enough to provide all the essential knowledge and skills\nteaching skills useful in everyday practice, but accessible to students with no or little experience\ngiving the theoretical background to make students being able to pursue the learning process on their own, but without loosing them with fluffy details\nadapting the learning objectives to the country’s specificities, including healthcare system organisation, differences between specialties, restrictions of access to other imaging techniques …\n\nThis is why, even if the course content is the same, the live sessions are specific to the area we operate.",
+    "crumbs": [
+      "Ultrasound Course",
+      "Introduction",
+      "Contents and objectives"
+    ]
+  },
+  {
+    "objectID": "us-content-and-objectives.html#what-will-i-learn",
+    "href": "us-content-and-objectives.html#what-will-i-learn",
+    "title": "Contents and objectives",
+    "section": "",
+    "text": "The design of this level-1 course required to balance between different constraints:\n\na short, focused training program, in order to reach the maximum of trainees, but long enough to provide all the essential knowledge and skills\nteaching skills useful in everyday practice, but accessible to students with no or little experience\ngiving the theoretical background to make students being able to pursue the learning process on their own, but without loosing them with fluffy details\nadapting the learning objectives to the country’s specificities, including healthcare system organisation, differences between specialties, restrictions of access to other imaging techniques …\n\nThis is why, even if the course content is the same, the live sessions are specific to the area we operate.",
+    "crumbs": [
+      "Ultrasound Course",
+      "Introduction",
+      "Contents and objectives"
+    ]
+  },
+  {
+    "objectID": "us-content-and-objectives.html#course-objectives-and-modules",
+    "href": "us-content-and-objectives.html#course-objectives-and-modules",
+    "title": "Contents and objectives",
+    "section": "Course objectives and modules",
+    "text": "Course objectives and modules\n\nGeneral objectives\nAt the end of this course, you will be able to:\n\nexplain how an echograph uses ultrasounds to create both static and dynamic images\nchoose the adequate probe, mode and settings\nmanipulate the ultrasound probe to obtain the needed view\nexplore different body sections (chest, abdomen, limbs) to identify life-threatening injuries\nguide insertion of catheter with ultrasound\nintegrate the ultrasound observation into clinical decision-making\nenhance clinical triage of wounded using ultrasound assessment\n\n\n\nSpecific objectives by module\n\nModule 1: Fundamentals of ultrasound\n\nWhat is an ultrasound\nHow ultrasounds are emitted, propagated, diffused, transmitted, reflected and transducted\nHow is produced the image shown on screen\nHow to choose the adequate probe\nHow to choose the adequate mode\nHow to interpret ultrasound artefacts\nWhat are the adverse effects of ultrasound\n\n\n\nModule 2: Handling the probe\n\nHow to prepare the patient and yourself for an ultrasound exam\nHow to set the ultrasound device to obtain the best image quality\nOrientating the view shown on screen\nMove the probe to find the best view\n\n\n\nModule 3: Abdomen\n\nIdentify intraperitoneal free fluid using the FAST protocol\nIdentify signs of renal pelvis dilatation\nIdentify abdominal aortic aneuvrism\nIdentify US-guided Murphy sign for cholelithiasis or cholecystitis\nLook for intrauterine pregnancy\n\n\n\nModule 4: Lungs\n\nExplain what are the significance of lung ultrasound semiology: A-lines, B-lines, lung sliding, lung point, free fluid, condensation\nIntegrate these signs to diagnose: pneumothorax, hemothorax, cardiogenic edema, pneumonia\n\n\n\nModule 5: Bones and tissues\n\nDescribe on which bones and which kind of fractures can be diagnosed with ultrasound\nIdentify a fracture on these bones\nIdentify a foreign body in soft tissues\n\n\n\nModule 6: Heart\n\nObtain the main views of the heart: parasternal long and short axis, apical (4-chamber), subcostal\nAssess the left ventricular ejection fraction by both visual semi-quantitative and MAPSE methods\nLook for signs of severe acute pulmonary embolism\nIdentify free pericardial fluid\nIdentify signs of massive valvular regurgitation\nMeasure the inferior vena cava diameter and collapsibility\n\n\n\nModule 7: Vessels\n\nVisualize and follow arteries and veins\nDiagnose deep vein thrombosis\nGuide a puncture in a vessel through both in-plane, out-of-plane and oblique approaches\n\n\n\nThe T-FAST protocol\n\nDescribe what is the T-FAST protocol and why it has been designed\nDescribe the potential and limits of the T-FAST protocol\nHow to use the T-FAST for individual patient assessment and triage",
+    "crumbs": [
+      "Ultrasound Course",
+      "Introduction",
+      "Contents and objectives"
     ]
   },
   {
