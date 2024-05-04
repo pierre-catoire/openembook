@@ -1,0 +1,49 @@
+---
+title: "Choose of probe"
+---
+
+## Emission direction
+
+To scan a two-dimensional space, the probe has to emit ultrasounds in **different directions**. The shape of the scanned area depends on the body section:
+
+-   exploring vessels, soft tissue and bones require a narrow scanning area
+-   exploring abdomen, chest or skull require a broad scanning area
+
+Therefore, the probe used for vessels and soft tissues is flat an linear, whereas the probe used for abdomen is curved (we say ***curvilinear***) to emit in different directions, obtaining a "fan-like" scanning area.
+
+## Probes and frequencies
+
+Let's recall from previous chapter: could you guess what frequencies are used for each of these probes?
+
+::: {.callout-note collapse="true"}
+## Answer
+
+-   The linear probe will use **high frequencies** to have better resolution at short depth
+-   The curvilinear probe will use **low frequencies** to have better penetration and therefore better resolution at high depth
+:::
+
+## The phased-array probe
+
+However, for chest and skull, use of curvilinear probe would be limited by the presence of bones. The probe surface should be narrow to limit the interposition of bones. In this situation, the probe will emit ultrasound in various directions not using curvature of the surface, but a technology called ***phased array***. This probe is called the **sectorial** probe.
+
+::: callout-tip
+## What is a phased array?
+
+A phased-array probe uses phase shifting to change the direction of ultrasounds emitted from a flat surface.
+:::
+
+## Recap: which probe should I use?
+
++---------------------+-------------------------------------------------------+--------------------------+---------------------------+
+|                     | Linear                                                | Curvilinear              | Sectorial                 |
++:===================:+:=====================================================:+:========================:+:=========================:+
+| Frequency range     | 5-15 MHz                                              | 2.5-7.5 MHz              | 2-7.5 MHz                 |
++---------------------+-------------------------------------------------------+--------------------------+---------------------------+
+| Shape               | Flat                                                  | Curved                   | Flat                      |
++---------------------+-------------------------------------------------------+--------------------------+---------------------------+
+| Scanning area shape | Rectangular                                           | Fan-like with large base | Fan-like with narrow base |
++---------------------+-------------------------------------------------------+--------------------------+---------------------------+
+| Use                 | Vessels, bones, superficial tissue, thyroïd, genitals | Abdomen, pelvis          | Heart, lungs, brain       |
+|                     |                                                       |                          |                           |
+|                     |                                                       |                          | *Can be used for abdomen* |
++---------------------+-------------------------------------------------------+--------------------------+---------------------------+

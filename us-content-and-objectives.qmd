@@ -1,0 +1,87 @@
+---
+title: "Contents and objectives"
+---
+
+## What will I learn?
+
+The design of this level-1 course required to balance between different constraints:
+
+-   a short, focused training program, in order to reach the maximum of trainees, but long enough to provide all the essential knowledge and skills
+-   teaching skills useful in everyday practice, but accessible to students with no or little experience
+-   giving the theoretical background to make students being able to pursue the learning process on their own, but without loosing them with fluffy details
+-   adapting the learning objectives to the country's specificities, including healthcare system organisation, differences between specialties, restrictions of access to other imaging techniques ...
+
+This is why, **even if the course content is the same, the live sessions are specific to the area we operate.**
+
+## Course objectives and modules
+
+### General objectives
+
+At the end of this course, you will be able to:
+
+-   explain how an echograph uses ultrasounds to create both static and dynamic images
+-   choose the adequate probe, mode and settings
+-   manipulate the ultrasound probe to obtain the needed view
+-   explore different body sections (chest, abdomen, limbs) to identify life-threatening injuries
+-   guide insertion of catheter with ultrasound
+-   integrate the ultrasound observation into clinical decision-making
+-   enhance clinical triage of wounded using ultrasound assessment
+
+### Specific objectives by module
+
+#### Module 1: Fundamentals of ultrasound
+
+-   What is an ultrasound
+-   How ultrasounds are emitted, propagated, diffused, transmitted, reflected and transducted
+-   How is produced the image shown on screen
+-   How to choose the adequate probe
+-   How to choose the adequate mode
+-   How to interpret ultrasound artefacts
+-   What are the adverse effects of ultrasound
+
+#### Module 2: Handling the probe
+
+-   How to prepare the patient and yourself for an ultrasound exam
+-   How to set the ultrasound device to obtain the best image quality
+-   Orientating the view shown on screen
+-   Move the probe to find the best view
+
+#### Module 3: Abdomen
+
+-   Identify intraperitoneal free fluid using the FAST protocol
+-   Identify signs of renal pelvis dilatation
+-   Identify abdominal aortic aneuvrism
+-   Identify US-guided Murphy sign for cholelithiasis or cholecystitis
+-   Look for intrauterine pregnancy
+
+#### Module 4: Lungs
+
+-   Explain what are the significance of lung ultrasound semiology: A-lines, B-lines, lung sliding, lung point, free fluid, condensation
+-   Integrate these signs to diagnose: pneumothorax, hemothorax, cardiogenic edema, pneumonia
+
+#### Module 5: Bones and tissues
+
+-   Describe on which bones and which kind of fractures can be diagnosed with ultrasound
+-   Identify a fracture on these bones
+-   Identify a foreign body in soft tissues
+
+#### Module 6: Heart
+
+-   Obtain the main views of the heart: parasternal long and short axis, apical (4-chamber), subcostal
+-   Assess the left ventricular ejection fraction by both visual semi-quantitative and MAPSE methods
+-   Look for signs of severe acute pulmonary embolism
+-   Identify free pericardial fluid
+-   Identify signs of massive valvular regurgitation
+-   Measure the inferior vena cava diameter and collapsibility
+
+#### Module 7: Vessels
+
+-   Visualize and follow arteries and veins
+-   Diagnose deep vein thrombosis
+-   Guide a puncture in a vessel through both in-plane, out-of-plane and oblique approaches
+
+#### The T-FAST protocol
+
+-   Describe what is the T-FAST protocol and why it has been designed
+-   Describe the potential and limits of the T-FAST protocol
+-   How to use the T-FAST for individual patient assessment and triage

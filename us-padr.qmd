@@ -1,0 +1,38 @@
+---
+title: "Propagation, attenuation, diffusion, reflection"
+---
+
+## How does the ultrasound travels through the tissues?
+
+As ultrasounds are mechanical waves, they travel through tissues by transmitting compression forces close to close. This is called **propagation**.
+
+But, ultrasounds cannot travel on an infinite distance, because of **attenuation**. The energy is lost through the tissues by several phenomenons: **dissipation**, **diffusion** and **reflection**.
+
+## Attenuation and diffusion
+
+As the ultrasound frontwave is spheric, it growths over distance and time. Hence, the energy is distributed on a wider surface and therefore, the amount of energy per surface unit on the wavefront is decreasing. This is called **dissipation**.
+
+Furthermore, as the motion of molecules is not perfectly orientated, ultrasounds create chaotic movement of the molecules (ie, brownian motion). This translates to heat in the system, which implies loss of energy of the wave. This is called **diffusion**.
+
+::: callout-tip
+The energy of ultrasound is **attenuated**, ie. decreased over time and distance, by:
+
+-   **dissipation**: spreading of the energy on a wider wavefront
+-   **diffusion**: transfer of kinetic energy to heat in the tissues
+:::
+
+::: callout-important
+## Note that:
+
+**The attenuation is dependent on the frequency**: the higher the frequency, the higher the attenuation. Therefore:
+
+- **High frequencies** are used for **superficial exams**
+- **Low frequencies** are used for **deep exams**
+:::
+
+As long as the ultrasound travels through an **homogenous** medium (e.g. water), its direction is only frontward. When the wavefront hits an object (ie, another medium, e.g. fat, bone, air), it splits the wave in two:
+
+-   one is going back to the probe: it is the **reflected** wave
+-   one is pursuing through the new medium: it is the **transmitted** wave
+
+Note that the sum of the energy of the two waves (reflected and transmitted) is equal to the energy of the incident wave.

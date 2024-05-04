@@ -1,0 +1,32 @@
+---
+title: "A simple model for ultrasound imaging"
+---
+
+## A brief recap
+
+So far, we've seen that ultrasounds are **mechanical waves** (variations of pressure transmitted near to near) which **propagate** through tissues, slowly loosing energy from **attenuation** (both by **dissipation** and **diffusion**). When the ultrasound hits a **target**, it splits into a **transmitted wave** pursuing its trajectory, and a **reflected wave** travelling back to the probe.
+
+Based on these informations, could you guess how *basically* an ultrasound device can locate targets in the body?
+
+::: {.callout-note collapse="true"}
+## Answer
+
+The ultrasound identifies **targets** by:
+
+- emitting ultrasound
+- receiving reflected waves
+- measuring the **time of travel** of the ultrasound (ie. the time between emission and reception of reflected waves)
+- calculating the distance of the target hit by the formula:
+
+$$
+Distance = \frac{Transit \ time}{2} \times Speed
+$$
+:::
+
+By emitting ultrasounds in various directions, the ultrasound probe can identify targets in the all exploration space. Thereafter, the ultrasound device plots the image by representing any echo (ie. reflected ultrasound) by a white dot, creating an image representing the explorated section of the body.
+
+However, more details are required to understand more precisely how the ultrasound device works:
+
+- on what depends the intensity of the reflection?
+- what happens if a second target is beyond the first one?
+- How does the probe emits ultrasounds in different directions?

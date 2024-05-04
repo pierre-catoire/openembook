@@ -1,0 +1,13 @@
+---
+title: "Learning objectives"
+---
+
+## At the end of this module, you will know:
+
+-   What is an ultrasound
+-   How ultrasounds are emitted, propagated, diffused, transmitted, reflected and transducted
+-   How is produced the image shown on screen
+-   How to choose the adequate probe
+-   How to choose the adequate mode
+-   How to interpret ultrasound artefacts
+-   What are the adverse effects of ultrasound

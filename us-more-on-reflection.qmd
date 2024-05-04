@@ -1,0 +1,52 @@
+---
+title: "More on reflection"
+---
+
+## Impedance and reflection
+
+The reflection depends on the **difference** of **impedance** between the two media. The impedance is proportional to the **density** of the medium.
+
+::: {.callout-note collapse="true"}
+## Nerdy equation
+
+The ***reflection coefficient*** $\alpha$ is the ratio of the intensity of the reflected wave on the intensity of the incident wave:
+
+$$
+\alpha = \frac{I_R}{I_E} = \frac{(Z_2-Z_1)^2}{(Z_2+Z_1)^2}
+$$
+
+Note that the reflection coefficient is ***symetrical*** (the reflection is the same from medium 1 to medium 2 that from medium 2 to medium 1).
+:::
+
+So:
+
+-   when the difference of impedance is small, the reflection coefficient is small and most of the wave is **transmitted**
+-   when the difference of impedance is large, the reflection coefficient is large and most of the wave is **reflected**
+
+::: callout-important
+If after hitting a target, the transmitted ultrasound is strong enough, it can continue its path, and eventually hit a second target and produce a second reflected ultrasound.
+
+However, if the first target produces a strong reflection, the transmitted ultrasound will be too weak and will not be able to produce subsequent reflections, resulting in loss of ability to identify targets behind the first one. This effect is called **shadowing**.
+:::
+
+The surface between the two media is called the **interface**
+
+## Impedance of various media
+
+So, in the human body, the ultrasounds propagate mostly in water. Could you guess what is the medium which can be found in the human body, which reflects all the ultrasound?
+
+::: {.callout-tip collapse="true"}
+## What is the best ultrasound "mirror" ?
+
+**Gas** reflects 99.95% of ultrasounds.
+:::
+
+Based on media impedances, we can calculate the coefficients of reflection from one medium to another:
+
+| Interface  | \% reflected | \% transmitted |
+|:----------:|:------------:|:--------------:|
+| Water-Fat  |      4%      |      96%       |
+| Water-Bone |     54%      |      46%       |
+| Water-Air  |    99.95%    |     0.05%      |
+
+Therefore, **gas is a perfect ultrasound mirror**, and therefore creates a shadow beyond which no ultrasound can pass. **If any gas is interposed between the probe and the target, the target will be hidden**.

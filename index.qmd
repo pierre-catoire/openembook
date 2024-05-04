@@ -1,0 +1,5 @@
+---
+title: "Open EM Book"
+---
+
+This is the main page of the **Open Emergency Medicine Book** project.
