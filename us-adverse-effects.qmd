@@ -2,42 +2,50 @@
 title: "Adverse effects"
 ---
 
-## But, what is an ultrasound?
+## What are the potential adverse effects of ultrasound?
 
-### Definition of ultrasounds
+As for now, no case of ultrasound-related injury secondary to medical imaging has been reported. However, theoretical principles suggest that there may be adverse effects of ultrasound imaging if the device is not set properly. A precaution principle imposes therefore to pay attention to the device settings and to monitor the potential effects of the ultrasounds.
 
-First thing first: what is *precisely* an ultrasound?
+::: callout-warning
+**Theoretical** adverse effects of ultrasound imaging include:
 
-::: {.callout-note collapse="true"}
-## What is an ultrasound?
-
-An ultrasound is a **mechanical wave** (ie. cyclic variation of **air pressure** over **time** and **space**).
+-   Mechanical effects
+-   Thermal effects
 :::
 
-### Amplitude, frequency, period
+## Mechanical effects
 
-The ultrasounds are characterised by two values: **amplitude** and **frequency**:
+When ultrasounds propagate through water, they create shear forces of compression and dilation. When these forces are high enough, they can result in **cavitation**, causing damage to surrounding tissues.
 
--   the **amplitude** is the highest pressure obtained at the peak of the wave
--   the **frequency** is the number of entire cycles per time unit. Frequency is mostly measured in **Hertz (Hz)**, indicating the number of cycles per **second**.
+![](assets/us-cavitation.jpg){fig-align="center"}
 
-The frequency is related to the **period** of the wave, which is the **duration** of a cycle. The frequency and period are related:
+Risk of mechanical damages is increased by:
 
-$$
-Frequency = \frac{1}{Period}
-$$
+-   High amplitude
+-   Low frequency: high frequencies do not allow enough time for the cavitation to appear
+-   High Pulse Rate Frequency (PRF, ie. number of ultrasound wavefronts emitted per second)
+-   Narrower scan area (causing more pulses per second)
+-   Narrow focus
 
-For example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds ($\frac{1}{2}$). A wave with a frequency of 40 Hz has a period of 0.025 seconds ($\frac{1}{40}$) or 25 milliseconds.
+In daily practice, risk of mechanical injury is monitored by the **Mechanical Index (MI)**. Guidelines recommend to maintain:
 
-### Energy of the ultrasounds
+-   MI lower than 1.9 in any case, and lower than 0.23 for ophtalmology exam
+-   For obstetrics: maintain MI under 0.7 in any case, and reduce time of exposure for MIs between 0.3 and 0.7
 
-The **energy** of an ultrasound depends on both the frequency and the amplitude:
+## Thermal effects
 
--   the higher the frequency, the higher the energy
--   the higher the amplitude, the higher the energy
+Energy dispersed among tissues by ultrasound result in increase of heat. Tissue sensitivity to such effect is heterogenous, with bones, lens, cornea, tendons and adipose tissues being the most sensitive.
 
-::: callout-tip
-## Why it matters?
+Risk of thermal damages is increased by:
 
-Choosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).
-:::
+- Higher frequency
+- Higher amplitude
+- Longer pulse duration
+- Longer time of exposure
+- Narrower scan area
+- Narrow focus
+
+Risk of thermal injury is monitored by the **Thermal Index (TI)**. Guidelines recommend to:
+
+- Maintain TI under 3.0 in any case
+- Reduce time exposure as low as possible for TI between 0.7 and 3.0
