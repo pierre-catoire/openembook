@@ -38,6 +38,7 @@ website:
             - us-adverse-effects.qmd
             - us-fundamentals-thm.qmd
             - us-fundamentals-test.qmd
+            - us-fundamentals-additional-resources.qmd
 
     - title: "How-To"
       contents:
