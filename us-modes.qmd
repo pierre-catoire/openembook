@@ -2,8 +2,6 @@
 title: "Modes"
 ---
 
-## Modes
-
 The **modes** define how the ultrasound device will interpret the received reflected ultrasounds to produce an image. In this course, we will cover:
 
 - A (amplitude) mode
