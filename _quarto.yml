@@ -17,6 +17,7 @@ website:
     - title: "Ultrasound Course"
       style: "floating"
       background: dark
+      collapse-level: 1
       contents:
         - section: "Introduction"
           contents:
