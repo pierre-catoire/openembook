@@ -46,63 +46,27 @@
     ]
   },
   {
-    "objectID": "us-choose-of-probes.html",
-    "href": "us-choose-of-probes.html",
-    "title": "Choose of probe",
+    "objectID": "us-fundamentals.html",
+    "href": "us-fundamentals.html",
+    "title": "Learning objectives",
     "section": "",
-    "text": "To scan a two-dimensional space, the probe has to emit ultrasounds in different directions. The shape of the scanned area depends on the body section:\n\nexploring vessels, soft tissue and bones require a narrow scanning area\nexploring abdomen, chest or skull require a broad scanning area\n\nTherefore, the probe used for vessels and soft tissues is flat an linear, whereas the probe used for abdomen is curved (we say curvilinear) to emit in different directions, obtaining a “fan-like” scanning area.",
+    "text": "What is an ultrasound\nHow ultrasounds are emitted, propagated, diffused, transmitted, reflected and transducted\nHow is produced the image shown on screen\nHow to choose the adequate probe\nHow to choose the adequate mode\nHow to interpret ultrasound artefacts\nWhat are the adverse effects of ultrasound",
     "crumbs": [
       "Ultrasound Course",
       "Fundamentals of Ultrasound",
-      "Choose of probe"
+      "Learning objectives"
     ]
   },
   {
-    "objectID": "us-choose-of-probes.html#emission-direction",
-    "href": "us-choose-of-probes.html#emission-direction",
-    "title": "Choose of probe",
+    "objectID": "us-fundamentals.html#at-the-end-of-this-module-you-will-know",
+    "href": "us-fundamentals.html#at-the-end-of-this-module-you-will-know",
+    "title": "Learning objectives",
     "section": "",
-    "text": "To scan a two-dimensional space, the probe has to emit ultrasounds in different directions. The shape of the scanned area depends on the body section:\n\nexploring vessels, soft tissue and bones require a narrow scanning area\nexploring abdomen, chest or skull require a broad scanning area\n\nTherefore, the probe used for vessels and soft tissues is flat an linear, whereas the probe used for abdomen is curved (we say curvilinear) to emit in different directions, obtaining a “fan-like” scanning area.",
+    "text": "What is an ultrasound\nHow ultrasounds are emitted, propagated, diffused, transmitted, reflected and transducted\nHow is produced the image shown on screen\nHow to choose the adequate probe\nHow to choose the adequate mode\nHow to interpret ultrasound artefacts\nWhat are the adverse effects of ultrasound",
     "crumbs": [
       "Ultrasound Course",
       "Fundamentals of Ultrasound",
-      "Choose of probe"
-    ]
-  },
-  {
-    "objectID": "us-choose-of-probes.html#probes-and-frequencies",
-    "href": "us-choose-of-probes.html#probes-and-frequencies",
-    "title": "Choose of probe",
-    "section": "Probes and frequencies",
-    "text": "Probes and frequencies\nLet’s recall from previous chapter: could you guess what frequencies are used for each of these probes?\n\n\n\n\n\n\nAnswer\n\n\n\n\n\n\nThe linear probe will use high frequencies to have better resolution at short depth\nThe curvilinear probe will use low frequencies to have better penetration and therefore better resolution at high depth",
-    "crumbs": [
-      "Ultrasound Course",
-      "Fundamentals of Ultrasound",
-      "Choose of probe"
-    ]
-  },
-  {
-    "objectID": "us-choose-of-probes.html#the-phased-array-probe",
-    "href": "us-choose-of-probes.html#the-phased-array-probe",
-    "title": "Choose of probe",
-    "section": "The phased-array probe",
-    "text": "The phased-array probe\nHowever, for chest and skull, use of curvilinear probe would be limited by the presence of bones. The probe surface should be narrow to limit the interposition of bones. In this situation, the probe will emit ultrasound in various directions not using curvature of the surface, but a technology called phased array. This probe is called the sectorial probe.\n\n\n\n\n\n\nWhat is a phased array?\n\n\n\nA phased-array probe uses phase shifting to change the direction of ultrasounds emitted from a flat surface.",
-    "crumbs": [
-      "Ultrasound Course",
-      "Fundamentals of Ultrasound",
-      "Choose of probe"
-    ]
-  },
-  {
-    "objectID": "us-choose-of-probes.html#recap-which-probe-should-i-use",
-    "href": "us-choose-of-probes.html#recap-which-probe-should-i-use",
-    "title": "Choose of probe",
-    "section": "Recap: which probe should I use?",
-    "text": "Recap: which probe should I use?\n\n\n\n\n\n\n\n\n\n\nLinear\nCurvilinear\nSectorial\n\n\n\n\nFrequency range\n5-15 MHz\n2.5-7.5 MHz\n2-7.5 MHz\n\n\nShape\nFlat\nCurved\nFlat\n\n\nScanning area shape\nRectangular\nFan-like with large base\nFan-like with narrow base\n\n\nUse\nVessels, bones, superficial tissue, thyroïd, genitals\nAbdomen, pelvis\nHeart, lungs, brain\nCan be used for abdomen",
-    "crumbs": [
-      "Ultrasound Course",
-      "Fundamentals of Ultrasound",
-      "Choose of probe"
+      "Learning objectives"
     ]
   },
   {
@@ -177,19 +141,7 @@
     "href": "us-modes.html",
     "title": "Modes",
     "section": "",
-    "text": "The modes define how the ultrasound device will interpret the received reflected ultrasounds to produce an image. In this course, we will cover:\n\nA (amplitude) mode\nB (Brightness) mode\nTM (Time-Motion) mode\n\nDoppler modes will not be covered.",
-    "crumbs": [
-      "Ultrasound Course",
-      "Fundamentals of Ultrasound",
-      "Modes"
-    ]
-  },
-  {
-    "objectID": "us-modes.html#modes",
-    "href": "us-modes.html#modes",
-    "title": "Modes",
-    "section": "",
-    "text": "The modes define how the ultrasound device will interpret the received reflected ultrasounds to produce an image. In this course, we will cover:\n\nA (amplitude) mode\nB (Brightness) mode\nTM (Time-Motion) mode\n\nDoppler modes will not be covered.",
+    "text": "The modes define how the ultrasound device will interpret the received reflected ultrasounds to produce an image. In this course, we will cover:\nDoppler modes will not be covered.",
     "crumbs": [
       "Ultrasound Course",
       "Fundamentals of Ultrasound",
@@ -442,41 +394,87 @@
     ]
   },
   {
-    "objectID": "us-ultrasound-103.html",
-    "href": "us-ultrasound-103.html",
-    "title": "Ultrasound 103!!",
+    "objectID": "us-choose-of-probes.html",
+    "href": "us-choose-of-probes.html",
+    "title": "Choose of probe",
     "section": "",
-    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after)."
-  },
-  {
-    "objectID": "us-ultrasound-103.html#but-what-is-an-ultrasound",
-    "href": "us-ultrasound-103.html#but-what-is-an-ultrasound",
-    "title": "Ultrasound 103!!",
-    "section": "",
-    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after)."
-  },
-  {
-    "objectID": "us-fundamentals.html",
-    "href": "us-fundamentals.html",
-    "title": "Learning objectives",
-    "section": "",
-    "text": "What is an ultrasound\nHow ultrasounds are emitted, propagated, diffused, transmitted, reflected and transducted\nHow is produced the image shown on screen\nHow to choose the adequate probe\nHow to choose the adequate mode\nHow to interpret ultrasound artefacts\nWhat are the adverse effects of ultrasound",
+    "text": "To scan a two-dimensional space, the probe has to emit ultrasounds in different directions. The shape of the scanned area depends on the body section:\n\nexploring vessels, soft tissue and bones require a narrow scanning area\nexploring abdomen, chest or skull require a broad scanning area\n\nTherefore, the probe used for vessels and soft tissues is flat an linear, whereas the probe used for abdomen is curved (we say curvilinear) to emit in different directions, obtaining a “fan-like” scanning area.",
     "crumbs": [
       "Ultrasound Course",
       "Fundamentals of Ultrasound",
-      "Learning objectives"
+      "Choose of probe"
     ]
   },
   {
-    "objectID": "us-fundamentals.html#at-the-end-of-this-module-you-will-know",
-    "href": "us-fundamentals.html#at-the-end-of-this-module-you-will-know",
-    "title": "Learning objectives",
+    "objectID": "us-choose-of-probes.html#emission-direction",
+    "href": "us-choose-of-probes.html#emission-direction",
+    "title": "Choose of probe",
     "section": "",
-    "text": "What is an ultrasound\nHow ultrasounds are emitted, propagated, diffused, transmitted, reflected and transducted\nHow is produced the image shown on screen\nHow to choose the adequate probe\nHow to choose the adequate mode\nHow to interpret ultrasound artefacts\nWhat are the adverse effects of ultrasound",
+    "text": "To scan a two-dimensional space, the probe has to emit ultrasounds in different directions. The shape of the scanned area depends on the body section:\n\nexploring vessels, soft tissue and bones require a narrow scanning area\nexploring abdomen, chest or skull require a broad scanning area\n\nTherefore, the probe used for vessels and soft tissues is flat an linear, whereas the probe used for abdomen is curved (we say curvilinear) to emit in different directions, obtaining a “fan-like” scanning area.",
     "crumbs": [
       "Ultrasound Course",
       "Fundamentals of Ultrasound",
-      "Learning objectives"
+      "Choose of probe"
+    ]
+  },
+  {
+    "objectID": "us-choose-of-probes.html#probes-and-frequencies",
+    "href": "us-choose-of-probes.html#probes-and-frequencies",
+    "title": "Choose of probe",
+    "section": "Probes and frequencies",
+    "text": "Probes and frequencies\nLet’s recall from previous chapter: could you guess what frequencies are used for each of these probes?\n\n\n\n\n\n\nAnswer\n\n\n\n\n\n\nThe linear probe will use high frequencies to have better resolution at short depth\nThe curvilinear probe will use low frequencies to have better penetration and therefore better resolution at high depth",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Choose of probe"
+    ]
+  },
+  {
+    "objectID": "us-choose-of-probes.html#the-phased-array-probe",
+    "href": "us-choose-of-probes.html#the-phased-array-probe",
+    "title": "Choose of probe",
+    "section": "The phased-array probe",
+    "text": "The phased-array probe\nHowever, for chest and skull, use of curvilinear probe would be limited by the presence of bones. The probe surface should be narrow to limit the interposition of bones. In this situation, the probe will emit ultrasound in various directions not using curvature of the surface, but a technology called phased array. This probe is called the sectorial probe.\n\n\n\n\n\n\nWhat is a phased array?\n\n\n\nA phased-array probe uses phase shifting to change the direction of ultrasounds emitted from a flat surface.",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Choose of probe"
+    ]
+  },
+  {
+    "objectID": "us-choose-of-probes.html#recap-which-probe-should-i-use",
+    "href": "us-choose-of-probes.html#recap-which-probe-should-i-use",
+    "title": "Choose of probe",
+    "section": "Recap: which probe should I use?",
+    "text": "Recap: which probe should I use?\n\n\n\n\n\n\n\n\n\n\nLinear\nCurvilinear\nSectorial\n\n\n\n\nFrequency range\n5-15 MHz\n2.5-7.5 MHz\n2-7.5 MHz\n\n\nShape\nFlat\nCurved\nFlat\n\n\nScanning area shape\nRectangular\nFan-like with large base\nFan-like with narrow base\n\n\nUse\nVessels, bones, superficial tissue, thyroïd, genitals\nAbdomen, pelvis\nHeart, lungs, brain\nCan be used for abdomen",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Choose of probe"
+    ]
+  },
+  {
+    "objectID": "us-artefacts.html",
+    "href": "us-artefacts.html",
+    "title": "Artefacts",
+    "section": "",
+    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Artefacts"
+    ]
+  },
+  {
+    "objectID": "us-artefacts.html#but-what-is-an-ultrasound",
+    "href": "us-artefacts.html#but-what-is-an-ultrasound",
+    "title": "Artefacts",
+    "section": "",
+    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Artefacts"
     ]
   },
   {
