@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Open EM Book - Artefacts</title>
+<title>Open EM Book - Artifacts</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,35 +69,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -138,7 +109,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./us-fundamentals.html">Fundamentals of Ultrasound</a></li><li class="breadcrumb-item"><a href="./us-artefacts.html">Artefacts</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./us-fundamentals.html">Fundamentals of Ultrasound</a></li><li class="breadcrumb-item"><a href="./us-artifacts.html">Artifacts</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -238,8 +209,8 @@ window.Quarto = {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./us-artefacts.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Artefacts</span></a>
+  <a href="./us-artifacts.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Artifacts</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -272,21 +243,18 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#but-what-is-an-ultrasound" id="toc-but-what-is-an-ultrasound" class="nav-link active" data-scroll-target="#but-what-is-an-ultrasound">But, what is an ultrasound?</a>
-  <ul class="collapse">
-  <li><a href="#definition-of-ultrasounds" id="toc-definition-of-ultrasounds" class="nav-link" data-scroll-target="#definition-of-ultrasounds">Definition of ultrasounds</a></li>
-  <li><a href="#amplitude-frequency-period" id="toc-amplitude-frequency-period" class="nav-link" data-scroll-target="#amplitude-frequency-period">Amplitude, frequency, period</a></li>
-  <li><a href="#energy-of-the-ultrasounds" id="toc-energy-of-the-ultrasounds" class="nav-link" data-scroll-target="#energy-of-the-ultrasounds">Energy of the ultrasounds</a></li>
-  </ul></li>
+  <li><a href="#shadowing-artifact" id="toc-shadowing-artifact" class="nav-link active" data-scroll-target="#shadowing-artifact">Shadowing artifact</a></li>
+  <li><a href="#a-lines-reflection-artefacts" id="toc-a-lines-reflection-artefacts" class="nav-link" data-scroll-target="#a-lines-reflection-artefacts">A-lines: reflection artefacts</a></li>
+  <li><a href="#b-lines-reverberation-artifacts" id="toc-b-lines-reverberation-artifacts" class="nav-link" data-scroll-target="#b-lines-reverberation-artifacts">B-lines: reverberation artifacts</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./us-fundamentals.html">Fundamentals of Ultrasound</a></li><li class="breadcrumb-item"><a href="./us-artefacts.html">Artefacts</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./us-fundamentals.html">Fundamentals of Ultrasound</a></li><li class="breadcrumb-item"><a href="./us-artifacts.html">Artifacts</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Artefacts</h1>
+<h1 class="title">Artifacts</h1>
 </div>
 
 
@@ -303,64 +271,88 @@ window.Quarto = {
 </header>
 
 
-<section id="but-what-is-an-ultrasound" class="level2">
-<h2 class="anchored" data-anchor-id="but-what-is-an-ultrasound">But, what is an ultrasound?</h2>
-<section id="definition-of-ultrasounds" class="level3">
-<h3 class="anchored" data-anchor-id="definition-of-ultrasounds">Definition of ultrasounds</h3>
-<p>First thing first: what is <em>precisely</em> an ultrasound?</p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+<p>Artefacts are “illusions”, ie. fake images produced by misinterpretation of echoes by the ultrasound machine.</p>
+<pre><code>![An elephant](assets/b-lines-long.jpg){.lightbox}</code></pre>
+<p>Understanding how artefacts appear and why help to:</p>
+<ul>
+<li>Avoid misinterpretation of the image produced</li>
+<li>Sometimes, artefacts can be interpretded as a positive sign: for example, the artefact called “B-lines” in pleural assessment excludes the presence of a pneumothorax (see below)</li>
+</ul>
+<section id="shadowing-artifact" class="level2">
+<h2 class="anchored" data-anchor-id="shadowing-artifact">Shadowing artifact</h2>
+<p>When ultrasound hits a target with an important reflection coefficient, the intensity of the transmitted ultrasound (ie. the ultrasound pursuing its path) is reduced. As a consequence, echoes coming from structures placed behind a structure with a strong reflection coefficient will appear as weaker, resulting in a “shadow beam” behind an interface with a strong white line.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/shadowing-result.jpg" class="img-fluid figure-img"></p>
+<figcaption>Shadowing artifact</figcaption>
+</figure>
 </div>
-<div class="callout-title-container flex-fill">
-What is an ultrasound?
+</section>
+<section id="a-lines-reflection-artefacts" class="level2">
+<h2 class="anchored" data-anchor-id="a-lines-reflection-artefacts">A-lines: reflection artefacts</h2>
+<p>When the emitted ultrasound wavefront hits an interface perpendicular to the direction of ultrasounds with a strong reflection coefficient (typically water-air, eg. pleural line), all the ultrasounds are reflected backwards. The reflection may be so intense that the reflected ultrasounds may be reflected <strong>again</strong> by the ultrasound probe itself, and come back to the interface, being reflected a second time (or even a third, fourth …).</p>
+<p>In such case, the second reflection will reach the ultrasound probe after a time of transit <strong>twice longer</strong> than the initial reflection. This will be interpreted as a second interface, <strong>twice the distance</strong> from the probe, resulting in artifical parallel lines beyond the first line.</p>
+<div>
+
 </div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/a-line-mechanism.jpg" class="img-fluid figure-img"></p>
+<figcaption>Mechanism of production</figcaption>
+</figure>
 </div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p>An ultrasound is a <strong>mechanical wave</strong> (ie. cyclic variation of <strong>air pressure</strong> over <strong>time</strong> and <strong>space</strong>).</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/a-line-us.jpeg" class="img-fluid figure-img"></p>
+<figcaption>Result</figcaption>
+</figure>
+</div>
 </div>
 </div>
 </div>
 </section>
-<section id="amplitude-frequency-period" class="level3">
-<h3 class="anchored" data-anchor-id="amplitude-frequency-period">Amplitude, frequency, period</h3>
-<p>The ultrasounds are characterised by two values: <strong>amplitude</strong> and <strong>frequency</strong>:</p>
-<ul>
-<li>the <strong>amplitude</strong> is the highest pressure obtained at the peak of the wave</li>
-<li>the <strong>frequency</strong> is the number of entire cycles per time unit. Frequency is mostly measured in <strong>Hertz (Hz)</strong>, indicating the number of cycles per <strong>second</strong>.</li>
-</ul>
-<p>The frequency is related to the <strong>period</strong> of the wave, which is the <strong>duration</strong> of a cycle. The frequency and period are related:</p>
-<p><span class="math display">\[
-Frequency = \frac{1}{Period}
-\]</span></p>
-<p>For example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (<span class="math inline">\(\frac{1}{2}\)</span>). A wave with a frequency of 40 Hz has a period of 0.025 seconds (<span class="math inline">\(\frac{1}{40}\)</span>) or 25 milliseconds.</p>
-</section>
-<section id="energy-of-the-ultrasounds" class="level3">
-<h3 class="anchored" data-anchor-id="energy-of-the-ultrasounds">Energy of the ultrasounds</h3>
-<p>The <strong>energy</strong> of an ultrasound depends on both the frequency and the amplitude:</p>
-<ul>
-<li>the higher the frequency, the higher the energy</li>
-<li>the higher the amplitude, the higher the energy</li>
-</ul>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+<section id="b-lines-reverberation-artifacts" class="level2">
+<h2 class="anchored" data-anchor-id="b-lines-reverberation-artifacts">B-lines: reverberation artifacts</h2>
+<p>B-lines are produced when an ultrasound enters in a tiny structure of water, surrounded by air. There, a lot of reflections will occur, resulting in a lot of ultrasounds getting out from the tiny structure back to the probe. These reflected ultrasounds will have a slightly longer time of transit (ie. time of transit from the probe to the structure, plus the time spend in the structure). This will result as small echoes, slightly beyond the echo of the main structure itself. As these small echoes pile up (because of various times spend in the structure), the overall results appears as a vertical line, aligned with the direction of emitted ultrasounds.</p>
+<p>This artifact typically appears when interstitial fluid appears in water-air interfaces. As an example, numerous B-lines in pleural ultrasound is a sign of interstitial lung edema (either infectious or hydrostatic).</p>
+<div>
+
 </div>
-<div class="callout-title-container flex-fill">
-Why it matters?
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/b-line-mechanism.png" class="img-fluid figure-img"></p>
+<figcaption>Mechanism of production</figcaption>
+</figure>
 </div>
 </div>
-<div class="callout-body-container callout-body">
-<p>Choosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).</p>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/b-lines-small.jpg" class="img-fluid figure-img"></p>
+<figcaption>Result (short B-lines)</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/b-lines-long.jpg" class="img-fluid figure-img"></p>
+<figcaption>Result (long B-lines)</figcaption>
+</figure>
+</div>
+</div>
 </div>
 </div>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

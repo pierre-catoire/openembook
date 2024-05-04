@@ -526,27 +526,51 @@
     ]
   },
   {
-    "objectID": "us-artefacts.html",
-    "href": "us-artefacts.html",
-    "title": "Artefacts",
+    "objectID": "us-artifacts.html",
+    "href": "us-artifacts.html",
+    "title": "Artifacts",
     "section": "",
-    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
+    "text": "Artefacts are “illusions”, ie. fake images produced by misinterpretation of echoes by the ultrasound machine.\nUnderstanding how artefacts appear and why help to:",
     "crumbs": [
       "Ultrasound Course",
       "Fundamentals of Ultrasound",
-      "Artefacts"
+      "Artifacts"
     ]
   },
   {
-    "objectID": "us-artefacts.html#but-what-is-an-ultrasound",
-    "href": "us-artefacts.html#but-what-is-an-ultrasound",
-    "title": "Artefacts",
-    "section": "",
-    "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
+    "objectID": "us-artifacts.html#shadowing-artifact",
+    "href": "us-artifacts.html#shadowing-artifact",
+    "title": "Artifacts",
+    "section": "Shadowing artifact",
+    "text": "Shadowing artifact\nWhen ultrasound hits a target with an important reflection coefficient, the intensity of the transmitted ultrasound (ie. the ultrasound pursuing its path) is reduced. As a consequence, echoes coming from structures placed behind a structure with a strong reflection coefficient will appear as weaker, resulting in a “shadow beam” behind an interface with a strong white line.\n\n\n\nShadowing artifact",
     "crumbs": [
       "Ultrasound Course",
       "Fundamentals of Ultrasound",
-      "Artefacts"
+      "Artifacts"
+    ]
+  },
+  {
+    "objectID": "us-artifacts.html#a-lines-reflection-artefacts",
+    "href": "us-artifacts.html#a-lines-reflection-artefacts",
+    "title": "Artifacts",
+    "section": "A-lines: reflection artefacts",
+    "text": "A-lines: reflection artefacts\nWhen the emitted ultrasound wavefront hits an interface perpendicular to the direction of ultrasounds with a strong reflection coefficient (typically water-air, eg. pleural line), all the ultrasounds are reflected backwards. The reflection may be so intense that the reflected ultrasounds may be reflected again by the ultrasound probe itself, and come back to the interface, being reflected a second time (or even a third, fourth …).\nIn such case, the second reflection will reach the ultrasound probe after a time of transit twice longer than the initial reflection. This will be interpreted as a second interface, twice the distance from the probe, resulting in artifical parallel lines beyond the first line.\n\n\n\n\n\n\n\n\n\nMechanism of production\n\n\n\n\n\n\n\nResult",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Artifacts"
+    ]
+  },
+  {
+    "objectID": "us-artifacts.html#b-lines-reverberation-artifacts",
+    "href": "us-artifacts.html#b-lines-reverberation-artifacts",
+    "title": "Artifacts",
+    "section": "B-lines: reverberation artifacts",
+    "text": "B-lines: reverberation artifacts\nB-lines are produced when an ultrasound enters in a tiny structure of water, surrounded by air. There, a lot of reflections will occur, resulting in a lot of ultrasounds getting out from the tiny structure back to the probe. These reflected ultrasounds will have a slightly longer time of transit (ie. time of transit from the probe to the structure, plus the time spend in the structure). This will result as small echoes, slightly beyond the echo of the main structure itself. As these small echoes pile up (because of various times spend in the structure), the overall results appears as a vertical line, aligned with the direction of emitted ultrasounds.\nThis artifact typically appears when interstitial fluid appears in water-air interfaces. As an example, numerous B-lines in pleural ultrasound is a sign of interstitial lung edema (either infectious or hydrostatic).\n\n\n\n\n\n\n\n\n\nMechanism of production\n\n\n\n\n\n\n\nResult (short B-lines)\n\n\n\n\n\n\n\nResult (long B-lines)",
+    "crumbs": [
+      "Ultrasound Course",
+      "Fundamentals of Ultrasound",
+      "Artifacts"
     ]
   },
   {
