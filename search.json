@@ -13,6 +13,7 @@
     "section": "",
     "text": "This course is open to all healthcare workers, including physicians, nurses, midwives, paramedics, and allied health professionals. Whether you work in primary care, emergency medicine, obstetrics, or any other healthcare specialty, the skills you acquire in this course will help you include ultrasound imaging into everyday practice.\nTherefore, no real prerequisite is necessary before enrolling. However, we do assume that students have a good general knowledge of emergency medicine. Furthermore, during the live lectures and workshops, the instructors consider the online content as already acquired by the students.",
     "crumbs": [
+      "Ultrasound Course",
       "Introduction",
       "Prerequisites and certification"
     ]
@@ -24,6 +25,7 @@
     "section": "",
     "text": "This course is open to all healthcare workers, including physicians, nurses, midwives, paramedics, and allied health professionals. Whether you work in primary care, emergency medicine, obstetrics, or any other healthcare specialty, the skills you acquire in this course will help you include ultrasound imaging into everyday practice.\nTherefore, no real prerequisite is necessary before enrolling. However, we do assume that students have a good general knowledge of emergency medicine. Furthermore, during the live lectures and workshops, the instructors consider the online content as already acquired by the students.",
     "crumbs": [
+      "Ultrasound Course",
       "Introduction",
       "Prerequisites and certification"
     ]
@@ -35,6 +37,7 @@
     "section": "Certification",
     "text": "Certification\nWe are committed to maintaining the highest standards of education and training, and as such, we place great emphasis on verifying that each student has acquired the necessary knowledge and skills before earning their certification.\nThe certification is earned based on the results of both written and practical tests at the end of the course, along with commitment to the course along the training session.",
     "crumbs": [
+      "Ultrasound Course",
       "Introduction",
       "Prerequisites and certification"
     ]
@@ -46,6 +49,7 @@
     "section": "",
     "text": "In regions affected by conflict, restricted access to imaging techniques can make triage and care of wounded more difficult. Ultrasound imaging therefore emerges as a crucial tool in this context, offering a non-invasive, portable, and versatile solution for diagnosing a wide range of lesions.\nWelcome to our comprehensive ultrasound course designed specifically for healthcare workers operating in conflict zones. This course aims to equip you with the essential knowledge and practical skills needed to effectively utilize ultrasound technology in resource-constrained and high-stress environments.\nThroughout this course, you will delve into the fundamentals of ultrasound imaging, understanding the principles behind its use and interpretation. From mastering the anatomy and physiology relevant to ultrasound to learning how to optimize image quality in challenging settings, each module is tailored to empower you with the expertise necessary to make accurate diagnoses and informed medical decisions.",
     "crumbs": [
+      "Ultrasound Course",
       "Introduction",
       "Welcome to the course!"
     ]
@@ -57,6 +61,7 @@
     "section": "",
     "text": "In regions affected by conflict, restricted access to imaging techniques can make triage and care of wounded more difficult. Ultrasound imaging therefore emerges as a crucial tool in this context, offering a non-invasive, portable, and versatile solution for diagnosing a wide range of lesions.\nWelcome to our comprehensive ultrasound course designed specifically for healthcare workers operating in conflict zones. This course aims to equip you with the essential knowledge and practical skills needed to effectively utilize ultrasound technology in resource-constrained and high-stress environments.\nThroughout this course, you will delve into the fundamentals of ultrasound imaging, understanding the principles behind its use and interpretation. From mastering the anatomy and physiology relevant to ultrasound to learning how to optimize image quality in challenging settings, each module is tailored to empower you with the expertise necessary to make accurate diagnoses and informed medical decisions.",
     "crumbs": [
+      "Ultrasound Course",
       "Introduction",
       "Welcome to the course!"
     ]
@@ -68,6 +73,7 @@
     "section": "Who’s it for?",
     "text": "Who’s it for?\nWhether you’re a physician, nurse, or allied healthcare professional, this course is designed to accommodate diverse backgrounds and skill levels. By the end of the program, you will emerge not only as a proficient ultrasound operator but also be able to integer ultrasound into everyday practice.",
     "crumbs": [
+      "Ultrasound Course",
       "Introduction",
       "Welcome to the course!"
     ]
@@ -79,6 +85,7 @@
     "section": "We love feedback",
     "text": "We love feedback\nThank you for embarking on this journey with us. The all educational team put a lot of efforts into tailoring this course to better fit our trainee’s needs. Any feedback would be very much appreciated, as it is the only way to make the program better.\nLet’s get started!",
     "crumbs": [
+      "Ultrasound Course",
       "Introduction",
       "Welcome to the course!"
     ]
@@ -90,6 +97,7 @@
     "section": "",
     "text": "Artefacts are “illusions”, ie. fake images produced by misinterpretation of echoes by the ultrasound machine.\nUnderstanding how artefacts appear and why help to:",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Artifacts"
     ]
@@ -101,6 +109,7 @@
     "section": "Shadowing artifact",
     "text": "Shadowing artifact\nWhen ultrasound hits a target with an important reflection coefficient, the intensity of the transmitted ultrasound (ie. the ultrasound pursuing its path) is reduced. As a consequence, echoes coming from structures placed behind a structure with a strong reflection coefficient will appear as weaker, resulting in a “shadow beam” behind an interface with a strong white line.\n\n\n\nShadowing artifact",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Artifacts"
     ]
@@ -112,6 +121,7 @@
     "section": "A-lines: reflection artefacts",
     "text": "A-lines: reflection artefacts\nWhen the emitted ultrasound wavefront hits an interface perpendicular to the direction of ultrasounds with a strong reflection coefficient (typically water-air, eg. pleural line), all the ultrasounds are reflected backwards. The reflection may be so intense that the reflected ultrasounds may be reflected again by the ultrasound probe itself, and come back to the interface, being reflected a second time (or even a third, fourth …).\nIn such case, the second reflection will reach the ultrasound probe after a time of transit twice longer than the initial reflection. This will be interpreted as a second interface, twice the distance from the probe, resulting in artifical parallel lines beyond the first line.\n\n\n\n\n\n\n\n\n\nMechanism of production\n\n\n\n\n\n\n\nResult",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Artifacts"
     ]
@@ -123,6 +133,7 @@
     "section": "B-lines: reverberation artifacts",
     "text": "B-lines: reverberation artifacts\nB-lines are produced when an ultrasound enters in a tiny structure of water, surrounded by air. There, a lot of reflections will occur, resulting in a lot of ultrasounds getting out from the tiny structure back to the probe. These reflected ultrasounds will have a slightly longer time of transit (ie. time of transit from the probe to the structure, plus the time spend in the structure). This will result as small echoes, slightly beyond the echo of the main structure itself. As these small echoes pile up (because of various times spend in the structure), the overall results appears as a vertical line, aligned with the direction of emitted ultrasounds.\nThis artifact typically appears when interstitial fluid appears in water-air interfaces. As an example, numerous B-lines in pleural ultrasound is a sign of interstitial lung edema (either infectious or hydrostatic).\n\n\n\n\n\n\n\n\n\nMechanism of production\n\n\n\n\n\n\n\nResult (short B-lines)\n\n\n\n\n\n\n\nResult (long B-lines)",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Artifacts"
     ]
@@ -134,6 +145,7 @@
     "section": "",
     "text": "To scan a two-dimensional space, the probe has to emit ultrasounds in different directions. The shape of the scanned area depends on the body section:\n\nexploring vessels, soft tissue and bones require a narrow scanning area\nexploring abdomen, chest or skull require a broad scanning area\n\nTherefore, the probe used for vessels and soft tissues is flat an linear, whereas the probe used for abdomen is curved (we say curvilinear) to emit in different directions, obtaining a “fan-like” scanning area.",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Choose of probe"
     ]
@@ -145,6 +157,7 @@
     "section": "",
     "text": "To scan a two-dimensional space, the probe has to emit ultrasounds in different directions. The shape of the scanned area depends on the body section:\n\nexploring vessels, soft tissue and bones require a narrow scanning area\nexploring abdomen, chest or skull require a broad scanning area\n\nTherefore, the probe used for vessels and soft tissues is flat an linear, whereas the probe used for abdomen is curved (we say curvilinear) to emit in different directions, obtaining a “fan-like” scanning area.",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Choose of probe"
     ]
@@ -156,6 +169,7 @@
     "section": "Probes and frequencies",
     "text": "Probes and frequencies\nLet’s recall from previous chapter: could you guess what frequencies are used for each of these probes?\n\n\n\n\n\n\nAnswer\n\n\n\n\n\n\nThe linear probe will use high frequencies to have better resolution at short depth\nThe curvilinear probe will use low frequencies to have better penetration and therefore better resolution at high depth",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Choose of probe"
     ]
@@ -167,6 +181,7 @@
     "section": "The phased-array probe",
     "text": "The phased-array probe\nHowever, for chest and skull, use of curvilinear probe would be limited by the presence of bones. The probe surface should be narrow to limit the interposition of bones. In this situation, the probe will emit ultrasound in various directions not using curvature of the surface, but a technology called phased array. This probe is called the sectorial probe.\n\n\n\n\n\n\nWhat is a phased array?\n\n\n\nA phased-array probe uses phase shifting to change the direction of ultrasounds emitted from a flat surface.",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Choose of probe"
     ]
@@ -178,6 +193,7 @@
     "section": "Recap: which probe should I use?",
     "text": "Recap: which probe should I use?\n\n\n\n\n\n\n\n\n\n\nLinear\nCurvilinear\nSectorial\n\n\n\n\nFrequency range\n5-15 MHz\n2.5-7.5 MHz\n2-7.5 MHz\n\n\nShape\nFlat\nCurved\nFlat\n\n\nScanning area shape\nRectangular\nFan-like with large base\nFan-like with narrow base\n\n\nUse\nVessels, bones, superficial tissue, thyroïd, genitals\nAbdomen, pelvis\nHeart, lungs, brain\nCan be used for abdomen",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Choose of probe"
     ]
@@ -189,6 +205,7 @@
     "section": "",
     "text": "Take Home Messages\n\n\n\n\nUltrasound are pressure waves propagating through tissues\nUltrasound probe is able to emit and receive ultrasounds\nUltrasounds are reflected by the tissues, when the incident ultrasound hits an interface (ie. a surface separating two media with different acoustic impedances)\nUltrasound devices are able to determine position of tissue structures by calculating their distance from the probe, based on the time between emission of ultrasound and reception of echo (time of transit)\nInterface causing the most reflection is water-air, which reflect more than 99% of the incident ultrasound\nThe probes must been chosen depending on the area of exploration, the possible obstacles and the needed depth. Most available probes include:\n\nLinear high-frequency: for skin, superficial tissues, vessels, bones (sometimes pleura)\nCurvilinear low frequency: for abdomen (sometimes pleura)\nSectorial (or phased array): for heart and brain (sometimes pleura)\n\nB-mode is the most-used ultrasound mode (sometimes called 2D-mode). TM mode is mostly used to measure speeds and range of motion\nUltrasounds can generate artifacts, which must been taken into account for correct interpretation\nAlthough no case of ultrasound imaging-induced injury has been reported, potential biological effects of ultrasound justify to reduce the exposition to risk of mechanical or thermal injuries by adequate tuning and, sometimes, reduction of time of exposure",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Take Home Messages"
     ]
@@ -200,6 +217,7 @@
     "section": "",
     "text": "As for now, no case of ultrasound-related injury secondary to medical imaging has been reported. However, theoretical principles suggest that there may be adverse effects of ultrasound imaging if the device is not set properly. A precaution principle imposes therefore to pay attention to the device settings and to monitor the potential effects of the ultrasounds.\n\n\n\n\n\n\nWarning\n\n\n\nTheoretical adverse effects of ultrasound imaging include:\n\nMechanical effects\nThermal effects",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Adverse effects"
     ]
@@ -211,6 +229,7 @@
     "section": "",
     "text": "As for now, no case of ultrasound-related injury secondary to medical imaging has been reported. However, theoretical principles suggest that there may be adverse effects of ultrasound imaging if the device is not set properly. A precaution principle imposes therefore to pay attention to the device settings and to monitor the potential effects of the ultrasounds.\n\n\n\n\n\n\nWarning\n\n\n\nTheoretical adverse effects of ultrasound imaging include:\n\nMechanical effects\nThermal effects",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Adverse effects"
     ]
@@ -222,6 +241,7 @@
     "section": "Mechanical effects",
     "text": "Mechanical effects\nWhen ultrasounds propagate through water, they create shear forces of compression and dilation. When these forces are high enough, they can result in cavitation, causing damage to surrounding tissues.\n\n\n\n\n\nRisk of mechanical damages is increased by:\n\nHigh amplitude\nLow frequency: high frequencies do not allow enough time for the cavitation to appear\nHigh Pulse Rate Frequency (PRF, ie. number of ultrasound wavefronts emitted per second)\nNarrower scan area (causing more pulses per second)\nNarrow focus\n\nIn daily practice, risk of mechanical injury is monitored by the Mechanical Index (MI). Guidelines recommend to maintain:\n\nMI lower than 1.9 in any case, and lower than 0.23 for ophtalmology exam\nFor obstetrics: maintain MI under 0.7 in any case, and reduce time of exposure for MIs between 0.3 and 0.7",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Adverse effects"
     ]
@@ -233,6 +253,7 @@
     "section": "Thermal effects",
     "text": "Thermal effects\nEnergy dispersed among tissues by ultrasound result in increase of heat. Tissue sensitivity to such effect is heterogenous, with bones, lens, cornea, tendons and adipose tissues being the most sensitive.\nRisk of thermal damages is increased by:\n\nHigher frequency\nHigher amplitude\nLonger pulse duration\nLonger time of exposure\nNarrower scan area\nNarrow focus\n\nRisk of thermal injury is monitored by the Thermal Index (TI). Guidelines recommend to:\n\nMaintain TI under 3.0 in any case\nReduce time exposure as low as possible for TI between 0.7 and 3.0",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Adverse effects"
     ]
@@ -244,6 +265,7 @@
     "section": "",
     "text": "The modes define how the ultrasound device will interpret the received reflected ultrasounds to produce an image. In this course, we will cover:\nDoppler modes will not be covered.",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Modes"
     ]
@@ -255,6 +277,7 @@
     "section": "A-mode",
     "text": "A-mode\nThe A mode was historically the first mode created. It is a one-dimension mode, as ultrasounds are emitted and received in only one direction.\nHow this mode works is very similar to what we covered on the previous chapter: - the X-axis represents the time of transit, which corresponds to the distance between the probe and the target - the Y-axis represents the amplitude of the reflected ultrasound",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Modes"
     ]
@@ -266,6 +289,7 @@
     "section": "B-mode",
     "text": "B-mode\nThe B mode (for Brightness, also called 2D mode) is the “classical” mode used for anatomical examination. The image represents a slice of the body section examined.\nThis mode is obtained by:\n\nemitting an ultrasound in a direction\nreceiving the reflected ultrasounds and measuring their time of transit\ncalculating the distance between the probe and the targets\nplotting the targets by a whit dot (the higher the amplitude, the brighter the dot)\nemitting a new ultrasound in another direction",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Modes"
     ]
@@ -277,6 +301,7 @@
     "section": "TM-mode",
     "text": "TM-mode\nThe TM mode (for Time-Motion) is also a one-directional mode, working similarly to the A-mode. However, in TM mode, the ultrasound measure one the axis is repeated over time, in order to identify motion.\nIn TM mode, the X axis is the time of acquisition, and the Y axis is the depth. This means that: - a target at a fixed distance (eg. 5 cm) with no movement will be represented as a horizontal line at 5 cm of depth - a target moving back and forth in the direction of the axis of ultrasound will be represented as a sinusoïd line - a target moving back and forth perpendicularly to the axis of ultrasound will bass by the ultrasound beam, and after leave it, and so on back and forth. It will be represented as a dotted line.\nTM is useful to measure movement distance or to compare distances (ex. diastolic and systolic ventricular diameter, inspiratory and expiratory diameters of the vena cava …).",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Modes"
     ]
@@ -288,6 +313,7 @@
     "section": "",
     "text": "As ultrasounds are mechanical waves, they travel through tissues by transmitting compression forces close to close. This is called propagation.\nBut, ultrasounds cannot travel on an infinite distance, because of attenuation. The energy is lost through the tissues by several phenomenons: dissipation, diffusion and reflection.",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Propagation, attenuation, diffusion, reflection"
     ]
@@ -299,6 +325,7 @@
     "section": "",
     "text": "As ultrasounds are mechanical waves, they travel through tissues by transmitting compression forces close to close. This is called propagation.\nBut, ultrasounds cannot travel on an infinite distance, because of attenuation. The energy is lost through the tissues by several phenomenons: dissipation, diffusion and reflection.",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Propagation, attenuation, diffusion, reflection"
     ]
@@ -310,6 +337,7 @@
     "section": "Attenuation and diffusion",
     "text": "Attenuation and diffusion\nAs the ultrasound frontwave is spheric, it growths over distance and time. Hence, the energy is distributed on a wider surface and therefore, the amount of energy per surface unit on the wavefront is decreasing. This is called dissipation.\nFurthermore, as the motion of molecules is not perfectly orientated, ultrasounds create chaotic movement of the molecules (ie, brownian motion). This translates to heat in the system, which implies loss of energy of the wave. This is called diffusion.\n\n\n\n\n\n\nTip\n\n\n\nThe energy of ultrasound is attenuated, ie. decreased over time and distance, by:\n\ndissipation: spreading of the energy on a wider wavefront\ndiffusion: transfer of kinetic energy to heat in the tissues\n\n\n\n\n\n\n\n\n\nNote that:\n\n\n\nThe attenuation is dependent on the frequency: the higher the frequency, the higher the attenuation. Therefore:\n\nHigh frequencies are used for superficial exams\nLow frequencies are used for deep exams\n\n\n\nAs long as the ultrasound travels through an homogenous medium (e.g. water), its direction is only frontward. When the wavefront hits an object (ie, another medium, e.g. fat, bone, air), it splits the wave in two:\n\none is going back to the probe: it is the reflected wave\none is pursuing through the new medium: it is the transmitted wave\n\nNote that the sum of the energy of the two waves (reflected and transmitted) is equal to the energy of the incident wave.",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Propagation, attenuation, diffusion, reflection"
     ]
@@ -321,6 +349,7 @@
     "section": "",
     "text": "The reflection depends on the difference of impedance between the two media. The impedance is proportional to the density of the medium.\n\n\n\n\n\n\nNerdy equation\n\n\n\n\n\nThe reflection coefficient \\(\\alpha\\) is the ratio of the intensity of the reflected wave on the intensity of the incident wave:\n\\[\n\\alpha = \\frac{I_R}{I_E} = \\frac{(Z_2-Z_1)^2}{(Z_2+Z_1)^2}\n\\]\nNote that the reflection coefficient is symetrical (the reflection is the same from medium 1 to medium 2 that from medium 2 to medium 1).\n\n\n\nSo:\n\nwhen the difference of impedance is small, the reflection coefficient is small and most of the wave is transmitted\nwhen the difference of impedance is large, the reflection coefficient is large and most of the wave is reflected\n\n\n\n\n\n\n\nImportant\n\n\n\nIf after hitting a target, the transmitted ultrasound is strong enough, it can continue its path, and eventually hit a second target and produce a second reflected ultrasound.\nHowever, if the first target produces a strong reflection, the transmitted ultrasound will be too weak and will not be able to produce subsequent reflections, resulting in loss of ability to identify targets behind the first one. This effect is called shadowing.\n\n\nThe surface between the two media is called the interface",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "More on reflection"
     ]
@@ -332,6 +361,7 @@
     "section": "",
     "text": "The reflection depends on the difference of impedance between the two media. The impedance is proportional to the density of the medium.\n\n\n\n\n\n\nNerdy equation\n\n\n\n\n\nThe reflection coefficient \\(\\alpha\\) is the ratio of the intensity of the reflected wave on the intensity of the incident wave:\n\\[\n\\alpha = \\frac{I_R}{I_E} = \\frac{(Z_2-Z_1)^2}{(Z_2+Z_1)^2}\n\\]\nNote that the reflection coefficient is symetrical (the reflection is the same from medium 1 to medium 2 that from medium 2 to medium 1).\n\n\n\nSo:\n\nwhen the difference of impedance is small, the reflection coefficient is small and most of the wave is transmitted\nwhen the difference of impedance is large, the reflection coefficient is large and most of the wave is reflected\n\n\n\n\n\n\n\nImportant\n\n\n\nIf after hitting a target, the transmitted ultrasound is strong enough, it can continue its path, and eventually hit a second target and produce a second reflected ultrasound.\nHowever, if the first target produces a strong reflection, the transmitted ultrasound will be too weak and will not be able to produce subsequent reflections, resulting in loss of ability to identify targets behind the first one. This effect is called shadowing.\n\n\nThe surface between the two media is called the interface",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "More on reflection"
     ]
@@ -343,6 +373,7 @@
     "section": "Impedance of various media",
     "text": "Impedance of various media\nSo, in the human body, the ultrasounds propagate mostly in water. Could you guess what is the medium which can be found in the human body, which reflects all the ultrasound?\n\n\n\n\n\n\nWhat is the best ultrasound “mirror” ?\n\n\n\n\n\nGas reflects 99.95% of ultrasounds.\n\n\n\nBased on media impedances, we can calculate the coefficients of reflection from one medium to another:\n\n\n\nInterface\n% reflected\n% transmitted\n\n\n\n\nWater-Fat\n4%\n96%\n\n\nWater-Bone\n54%\n46%\n\n\nWater-Air\n99.95%\n0.05%\n\n\n\nTherefore, gas is a perfect ultrasound mirror, and therefore creates a shadow beyond which no ultrasound can pass. If any gas is interposed between the probe and the target, the target will be hidden.",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "More on reflection"
     ]
@@ -402,6 +433,7 @@
     "section": "",
     "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Chapter test"
     ]
@@ -413,6 +445,7 @@
     "section": "",
     "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Chapter test"
     ]
@@ -424,6 +457,7 @@
     "section": "",
     "text": "Au A, Zwank M. Sonoguide - Physics and technical facts for the beginner. ACEP, July 2020.\nShankar H, Paul S. Pagel P, Warner D; Potential Adverse Ultrasound-related Biological Effects: A Critical Review. Anesthesiology 2011; 115:1109–1124",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Additional resources"
     ]
@@ -435,6 +469,7 @@
     "section": "",
     "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Ultrasound 101"
     ]
@@ -446,6 +481,7 @@
     "section": "",
     "text": "First thing first: what is precisely an ultrasound?\n\n\n\n\n\n\nWhat is an ultrasound?\n\n\n\n\n\nAn ultrasound is a mechanical wave (ie. cyclic variation of air pressure over time and space).\n\n\n\n\n\n\nThe ultrasounds are characterised by two values: amplitude and frequency:\n\nthe amplitude is the highest pressure obtained at the peak of the wave\nthe frequency is the number of entire cycles per time unit. Frequency is mostly measured in Hertz (Hz), indicating the number of cycles per second.\n\nThe frequency is related to the period of the wave, which is the duration of a cycle. The frequency and period are related:\n\\[\nFrequency = \\frac{1}{Period}\n\\]\nFor example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (\\(\\frac{1}{2}\\)). A wave with a frequency of 40 Hz has a period of 0.025 seconds (\\(\\frac{1}{40}\\)) or 25 milliseconds.\n\n\n\nThe energy of an ultrasound depends on both the frequency and the amplitude:\n\nthe higher the frequency, the higher the energy\nthe higher the amplitude, the higher the energy\n\n\n\n\n\n\n\nWhy it matters?\n\n\n\nChoosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Ultrasound 101"
     ]
@@ -457,6 +493,7 @@
     "section": "",
     "text": "So far, we’ve seen that ultrasounds are mechanical waves (variations of pressure transmitted near to near) which propagate through tissues, slowly loosing energy from attenuation (both by dissipation and diffusion). When the ultrasound hits a target, it splits into a transmitted wave pursuing its trajectory, and a reflected wave travelling back to the probe.\nBased on these informations, could you guess how basically an ultrasound device can locate targets in the body?\n\n\n\n\n\n\nAnswer\n\n\n\n\n\nThe ultrasound identifies targets by:\n\nemitting ultrasound\nreceiving reflected waves\nmeasuring the time of travel of the ultrasound (ie. the time between emission and reception of reflected waves)\ncalculating the distance of the target hit by the formula:\n\n\\[\nDistance = \\frac{Transit \\ time}{2} \\times Speed\n\\]\n\n\n\nBy emitting ultrasounds in various directions, the ultrasound probe can identify targets in the all exploration space. Thereafter, the ultrasound device plots the image by representing any echo (ie. reflected ultrasound) by a white dot, creating an image representing the explorated section of the body.\nHowever, more details are required to understand more precisely how the ultrasound device works:\n\non what depends the intensity of the reflection?\nwhat happens if a second target is beyond the first one?\nHow does the probe emits ultrasounds in different directions?",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "A simple model for ultrasound imaging"
     ]
@@ -468,6 +505,7 @@
     "section": "",
     "text": "So far, we’ve seen that ultrasounds are mechanical waves (variations of pressure transmitted near to near) which propagate through tissues, slowly loosing energy from attenuation (both by dissipation and diffusion). When the ultrasound hits a target, it splits into a transmitted wave pursuing its trajectory, and a reflected wave travelling back to the probe.\nBased on these informations, could you guess how basically an ultrasound device can locate targets in the body?\n\n\n\n\n\n\nAnswer\n\n\n\n\n\nThe ultrasound identifies targets by:\n\nemitting ultrasound\nreceiving reflected waves\nmeasuring the time of travel of the ultrasound (ie. the time between emission and reception of reflected waves)\ncalculating the distance of the target hit by the formula:\n\n\\[\nDistance = \\frac{Transit \\ time}{2} \\times Speed\n\\]\n\n\n\nBy emitting ultrasounds in various directions, the ultrasound probe can identify targets in the all exploration space. Thereafter, the ultrasound device plots the image by representing any echo (ie. reflected ultrasound) by a white dot, creating an image representing the explorated section of the body.\nHowever, more details are required to understand more precisely how the ultrasound device works:\n\non what depends the intensity of the reflection?\nwhat happens if a second target is beyond the first one?\nHow does the probe emits ultrasounds in different directions?",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "A simple model for ultrasound imaging"
     ]
@@ -493,6 +531,7 @@
     "section": "",
     "text": "What is an ultrasound\nHow ultrasounds are emitted, propagated, diffused, transmitted, reflected and transducted\nHow is produced the image shown on screen\nHow to choose the adequate probe\nHow to choose the adequate mode\nHow to interpret ultrasound artefacts\nWhat are the adverse effects of ultrasound",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Learning objectives"
     ]
@@ -504,6 +543,7 @@
     "section": "",
     "text": "What is an ultrasound\nHow ultrasounds are emitted, propagated, diffused, transmitted, reflected and transducted\nHow is produced the image shown on screen\nHow to choose the adequate probe\nHow to choose the adequate mode\nHow to interpret ultrasound artefacts\nWhat are the adverse effects of ultrasound",
     "crumbs": [
+      "Ultrasound Course",
       "Fundamentals of Ultrasound",
       "Learning objectives"
     ]
@@ -515,6 +555,7 @@
     "section": "",
     "text": "Pierre Catoire, MD, MSc, emergency doctor: course creator and international coordinator\n\n\n\n\n\n\n\nVitalii Mahlovayi, MD, general surgeon: Course coordinator for Ukraine\n\n\n\n\n\n…",
     "crumbs": [
+      "Ultrasound Course",
       "Introduction",
       "Meet the team"
     ]
@@ -526,6 +567,7 @@
     "section": "",
     "text": "Pierre Catoire, MD, MSc, emergency doctor: course creator and international coordinator\n\n\n\n\n\n\n\nVitalii Mahlovayi, MD, general surgeon: Course coordinator for Ukraine\n\n\n\n\n\n…",
     "crumbs": [
+      "Ultrasound Course",
       "Introduction",
       "Meet the team"
     ]
@@ -537,6 +579,7 @@
     "section": "",
     "text": "The design of this level-1 course required to balance between different constraints:\n\na short, focused training program, in order to reach the maximum of trainees, but long enough to provide all the essential knowledge and skills\nteaching skills useful in everyday practice, but accessible to students with no or little experience\ngiving the theoretical background to make students being able to pursue the learning process on their own, but without loosing them with fluffy details\nadapting the learning objectives to the country’s specificities, including healthcare system organisation, differences between specialties, restrictions of access to other imaging techniques …\n\nThis is why, even if the course content is the same, the live sessions are specific to the area we operate.",
     "crumbs": [
+      "Ultrasound Course",
       "Introduction",
       "Contents and objectives"
     ]
@@ -548,6 +591,7 @@
     "section": "",
     "text": "The design of this level-1 course required to balance between different constraints:\n\na short, focused training program, in order to reach the maximum of trainees, but long enough to provide all the essential knowledge and skills\nteaching skills useful in everyday practice, but accessible to students with no or little experience\ngiving the theoretical background to make students being able to pursue the learning process on their own, but without loosing them with fluffy details\nadapting the learning objectives to the country’s specificities, including healthcare system organisation, differences between specialties, restrictions of access to other imaging techniques …\n\nThis is why, even if the course content is the same, the live sessions are specific to the area we operate.",
     "crumbs": [
+      "Ultrasound Course",
       "Introduction",
       "Contents and objectives"
     ]
@@ -559,6 +603,7 @@
     "section": "Course objectives and modules",
     "text": "Course objectives and modules\n\nGeneral objectives\nAt the end of this course, you will be able to:\n\nexplain how an echograph uses ultrasounds to create both static and dynamic images\nchoose the adequate probe, mode and settings\nmanipulate the ultrasound probe to obtain the needed view\nexplore different body sections (chest, abdomen, limbs) to identify life-threatening injuries\nguide insertion of catheter with ultrasound\nintegrate the ultrasound observation into clinical decision-making\nenhance clinical triage of wounded using ultrasound assessment\n\n\n\nSpecific objectives by module\n\nModule 1: Fundamentals of ultrasound\n\nWhat is an ultrasound\nHow ultrasounds are emitted, propagated, diffused, transmitted, reflected and transducted\nHow is produced the image shown on screen\nHow to choose the adequate probe\nHow to choose the adequate mode\nHow to interpret ultrasound artefacts\nWhat are the adverse effects of ultrasound\n\n\n\nModule 2: Handling the probe\n\nHow to prepare the patient and yourself for an ultrasound exam\nHow to set the ultrasound device to obtain the best image quality\nOrientating the view shown on screen\nMove the probe to find the best view\n\n\n\nModule 3: Abdomen\n\nIdentify intraperitoneal free fluid using the FAST protocol\nIdentify signs of renal pelvis dilatation\nIdentify abdominal aortic aneuvrism\nIdentify US-guided Murphy sign for cholelithiasis or cholecystitis\nLook for intrauterine pregnancy\n\n\n\nModule 4: Lungs\n\nExplain what are the significance of lung ultrasound semiology: A-lines, B-lines, lung sliding, lung point, free fluid, condensation\nIntegrate these signs to diagnose: pneumothorax, hemothorax, cardiogenic edema, pneumonia\n\n\n\nModule 5: Bones and tissues\n\nDescribe on which bones and which kind of fractures can be diagnosed with ultrasound\nIdentify a fracture on these bones\nIdentify a foreign body in soft tissues\n\n\n\nModule 6: Heart\n\nObtain the main views of the heart: parasternal long and short axis, apical (4-chamber), subcostal\nAssess the left ventricular ejection fraction by both visual semi-quantitative and MAPSE methods\nLook for signs of severe acute pulmonary embolism\nIdentify free pericardial fluid\nIdentify signs of massive valvular regurgitation\nMeasure the inferior vena cava diameter and collapsibility\n\n\n\nModule 7: Vessels\n\nVisualize and follow arteries and veins\nDiagnose deep vein thrombosis\nGuide a puncture in a vessel through both in-plane, out-of-plane and oblique approaches\n\n\n\nThe T-FAST protocol\n\nDescribe what is the T-FAST protocol and why it has been designed\nDescribe the potential and limits of the T-FAST protocol\nHow to use the T-FAST for individual patient assessment and triage",
     "crumbs": [
+      "Ultrasound Course",
       "Introduction",
       "Contents and objectives"
     ]
