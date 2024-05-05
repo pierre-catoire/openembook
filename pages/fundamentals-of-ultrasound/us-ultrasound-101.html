@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Open EM Book - Dummy 3</title>
+<title>Open EM Book - Ultrasound 101</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,22 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../pages/fundamentals-of-ultrasound/us-padr.html" rel="next">
+<link href="../../pages/fundamentals-of-ultrasound/us-fundamentals.html" rel="prev">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,8 +69,37 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -78,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Open EM Book</span>
     </a>
   </div>
@@ -89,11 +120,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./us-introduction.qmd"> 
+    <a class="nav-link" href="../../us-introduction.qmd"> 
 <span class="menu-text">Ultrasound Course</span></a>
   </li>  
 </ul>
@@ -107,7 +138,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./reference.html">Dummy 3</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../pages/fundamentals-of-ultrasound/us-fundamentals.html">Fundamentals of Ultrasound</a></li><li class="breadcrumb-item"><a href="../../pages/fundamentals-of-ultrasound/us-ultrasound-101.html">Ultrasound 101</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -119,26 +150,149 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
+ <span class="menu-text">Introduction</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./reference.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Dummy 3</span></a>
+  <a href="../../pages/introduction/us-introduction.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Welcome to the course!</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/introduction/us-prerequisites.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Prerequisites and certification</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/introduction/us-content-and-objectives.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Contents and objectives</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/introduction/us-meet-the-team.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Meet the team</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+ <span class="menu-text">Fundamentals of Ultrasound</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/fundamentals-of-ultrasound/us-fundamentals.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Learning objectives</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/fundamentals-of-ultrasound/us-ultrasound-101.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Ultrasound 101</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/fundamentals-of-ultrasound/us-padr.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Propagation, attenuation, diffusion, reflection</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/fundamentals-of-ultrasound/us-simplest.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">A simple model for ultrasound imaging</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/fundamentals-of-ultrasound/us-more-on-reflection.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">More on reflection</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/fundamentals-of-ultrasound/us-choose-of-probes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Choose of probe</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/fundamentals-of-ultrasound/us-modes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Modes</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/fundamentals-of-ultrasound/us-artifacts.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Artifacts</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/fundamentals-of-ultrasound/us-adverse-effects.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Adverse effects</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/fundamentals-of-ultrasound/us-fundamentals-thm.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Take Home Messages</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/fundamentals-of-ultrasound/us-fundamentals-test.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Chapter test</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../pages/fundamentals-of-ultrasound/us-fundamentals-additional-resources.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Additional resources</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
     </ul>
     </div>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#but-what-is-an-ultrasound" id="toc-but-what-is-an-ultrasound" class="nav-link active" data-scroll-target="#but-what-is-an-ultrasound">But, what is an ultrasound?</a>
+  <ul class="collapse">
+  <li><a href="#definition-of-ultrasounds" id="toc-definition-of-ultrasounds" class="nav-link" data-scroll-target="#definition-of-ultrasounds">Definition of ultrasounds</a></li>
+  <li><a href="#amplitude-frequency-period" id="toc-amplitude-frequency-period" class="nav-link" data-scroll-target="#amplitude-frequency-period">Amplitude, frequency, period</a></li>
+  <li><a href="#energy-of-the-ultrasounds" id="toc-energy-of-the-ultrasounds" class="nav-link" data-scroll-target="#energy-of-the-ultrasounds">Energy of the ultrasounds</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../pages/fundamentals-of-ultrasound/us-fundamentals.html">Fundamentals of Ultrasound</a></li><li class="breadcrumb-item"><a href="../../pages/fundamentals-of-ultrasound/us-ultrasound-101.html">Ultrasound 101</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Dummy 3</h1>
+<h1 class="title">Ultrasound 101</h1>
 </div>
 
 
@@ -155,9 +309,65 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Dummy page 3.</p>
+<section id="but-what-is-an-ultrasound" class="level2">
+<h2 class="anchored" data-anchor-id="but-what-is-an-ultrasound">But, what is an ultrasound?</h2>
+<section id="definition-of-ultrasounds" class="level3">
+<h3 class="anchored" data-anchor-id="definition-of-ultrasounds">Definition of ultrasounds</h3>
+<p>First thing first: what is <em>precisely</em> an ultrasound?</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+What is an ultrasound?
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>An ultrasound is a <strong>mechanical wave</strong> (ie. cyclic variation of <strong>air pressure</strong> over <strong>time</strong> and <strong>space</strong>).</p>
+</div>
+</div>
+</div>
+</section>
+<section id="amplitude-frequency-period" class="level3">
+<h3 class="anchored" data-anchor-id="amplitude-frequency-period">Amplitude, frequency, period</h3>
+<p>The ultrasounds are characterised by two values: <strong>amplitude</strong> and <strong>frequency</strong>:</p>
+<ul>
+<li>the <strong>amplitude</strong> is the highest pressure obtained at the peak of the wave</li>
+<li>the <strong>frequency</strong> is the number of entire cycles per time unit. Frequency is mostly measured in <strong>Hertz (Hz)</strong>, indicating the number of cycles per <strong>second</strong>.</li>
+</ul>
+<p>The frequency is related to the <strong>period</strong> of the wave, which is the <strong>duration</strong> of a cycle. The frequency and period are related:</p>
+<p><span class="math display">\[
+Frequency = \frac{1}{Period}
+\]</span></p>
+<p>For example, a wave with a frequency of 2 Hz (meaning, two cycles per second) has a period of 0.5 seconds (<span class="math inline">\(\frac{1}{2}\)</span>). A wave with a frequency of 40 Hz has a period of 0.025 seconds (<span class="math inline">\(\frac{1}{40}\)</span>) or 25 milliseconds.</p>
+</section>
+<section id="energy-of-the-ultrasounds" class="level3">
+<h3 class="anchored" data-anchor-id="energy-of-the-ultrasounds">Energy of the ultrasounds</h3>
+<p>The <strong>energy</strong> of an ultrasound depends on both the frequency and the amplitude:</p>
+<ul>
+<li>the higher the frequency, the higher the energy</li>
+<li>the higher the amplitude, the higher the energy</li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Why it matters?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Choosing wisely the frequency and amplitude is essential to obtain the best image quality while limiting the potential adverse effects (see after).</p>
+</div>
+</div>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -569,6 +779,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../../pages/fundamentals-of-ultrasound/us-fundamentals.html" class="pagination-link" aria-label="Learning objectives">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Learning objectives</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../../pages/fundamentals-of-ultrasound/us-padr.html" class="pagination-link" aria-label="Propagation, attenuation, diffusion, reflection">
+        <span class="nav-page-text">Propagation, attenuation, diffusion, reflection</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
 
 
