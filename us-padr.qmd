@@ -4,6 +4,8 @@ title: "Propagation, attenuation, diffusion, reflection"
 
 ## How does the ultrasound travels through the tissues?
 
+!
+
 As ultrasounds are mechanical waves, they travel through tissues by transmitting compression forces close to close. This is called **propagation**.
 
 But, ultrasounds cannot travel on an infinite distance, because of **attenuation**. The energy is lost through the tissues by several phenomenons: **dissipation**, **diffusion** and **reflection**.
