@@ -1,0 +1,44 @@
+---
+title: "Orientation"
+---
+
+One of the most important skills in basic ultrasound training is the ability to identify at any point of the exam which side of the screen corresponds to which direction of the patient. As the ultrasound probe can be placed in any
+
+## Orientation: basics
+
+Ultrasound imaging is (in B-mode) a two-dimension sectional imaging technique, ie. the image obtained represents a section of the body. The section plane is rectangular or fan-shaped, with the tip placed at the extremity of the probe.
+
+Therefore, orientation of the image requires to correctly identify four directions, corresponding to the four sides of the image: up, down, left and right. A mark on the probe is represented on the screen to help identify left and right sides of the screen.
+
+::: {layout-ncol="2"}
+![The mark on the probe](assets/ultrasound-probe-mark.png){fig-align="center"}
+
+![The mark on the screen](assets/ultrasound-screen-mark.png){fig-align="center"}
+:::
+
+::: callout-note
+## Example #1: orientation of the image
+
+![](assets/orientation-right-kidney.png)
+
+This image has been obtained by placing the probe in a frontal plane, on the right side of the patient. The mark of the probe was placed upward. Could you identify which side of the screen (up, down, left, right) corresponds to which patient direction (up, down, left, right, front, back)?
+:::
+
+::: {.callout-tip collapse="true"}
+## Answer
+
+-   Upper part of the screen is the left side of the patient
+-   Lower part of the screen is the right side of the patient
+-   Left side of the screen is the upward direction of the patient
+-   Right side of the screen is the downward direction of the patient
+
+:::
+
+## A simple orientation protocol
+
+The following steps enable correct orientation in most cases:
+
+-  the side of the screen where is the tip of the ultrasound beam (ie. the tip of the fan) is where the ultrasounds come from, and therefore is the direction where the probe is placed: is the probe is on the front of the patient, the tip of the beam is the front direction, ...
+- the side of the screen opposite to the tip of the beam is the direction opposite to the previous direction
+- for the left and right sides of the screen, you have to:
+  - watch how the probe is placed: does 

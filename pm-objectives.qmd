@@ -1,0 +1,10 @@
+---
+title: "Learning objectives"
+---
+
+## At the end of this module, you will be able to:
+
+- Prepare yourself and the patient for an ultrasound exam
+- Set the machine
+- Identify the orientation of the image obtained on the screen
+- Move the probe to identify target and make measurements

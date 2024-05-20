@@ -1,0 +1,31 @@
+---
+title: "Basic settings"
+---
+
+Numerous settings are available to improve image quality. At an basic or intermediate level, only few of them are useful in daily practice. Furthermore, most of the modern ultrasound devices offer presets to automatically set the main parameters depending on which area is examined.
+
+This section will cover the most important settings: **depth**, **width**, **gain**, **Time Gain Compensation (TGC)**, and **focus**.
+
+## Depth
+
+Depth defines the distance between the probe and the most distant visible target. Depth must be deep enough to view all important structures. However, deeper depths decrease the frame rate (as the maximum time of transit is higher). Therefore, it is useful to reduce the depth to the smallest distance where all useful structures are visible.
+
+## Width
+
+Width define the angle of the ultrasound beam. As same as depth, wider width enables showing more distant structures, but decrease the frame rate.
+
+## Gain
+
+Gain defines the overall brightness of the image. Adequate brightness help differentiate the structures. It is advised to test different brightesses to find which one is adequate for the exam.
+
+## Time Gain Compensation (TGC)
+
+Time Gain Compensation (TGC) act as a depth-specific gain control, ie. each slider will decrease or increase the gain at a particular depth range.
+
+If raw image was used, as the amplitude of the reflected ultrasound is dependent of the amplitude of the incident ultrasound, echoes coming from superficial layers would be more ample (therefore brighter) than the ones coming from deeper layers. To correct this attenuation effect, the ultrasound device automatically increases the gain for deeper layers. 
+
+However, if attenuation is heterogenous (ie. if some layers have a stronger or weaker attenuation, as for example in liver), TGC enables the user to tune more precisely this correction.
+
+## Focus
+
+The wavefront of ultrasound can be focused at a certain distance, in order to improve image resolution at that distance (at the price of reducing it for the other layers). Some ultrasound devices enable multiple focus.

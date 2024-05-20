@@ -1,0 +1,39 @@
+---
+title: "Prepare yourself and the patient"
+---
+
+Quality of the exam and reliability of the results depend on performance of the operator as well as **preparation** and **setting**. Therefore, it is essential to:
+
+-   prepare the environment
+-   prepare the patient
+-   anticipate the results
+
+## Preparation of the operator
+
+-   Ensure the correct indication for the exam. Is ultrasound the best imaging tool in this situation?
+-   Have clearly in mind what you are looking for and what will be your clinical decisions depending on your findings
+
+::: callout-tip
+## Confirmation bias in ultrasound
+
+In point-of-care ultrasound, as the operator is also the physician responsible for the clinical decision, the risk of **confirmation bias** (ie. biasing the interpretation of the exam towards what the operator was expecting to find) is high.
+
+Ways to reduce the risk of confirmation bias include:
+
+- apply a standardized protocol
+- identify what will be the next clinical decisions depending on the result you may find, **before** performing the exam
+- ask to a colleague to perform the exam
+:::
+
+## Preparation of the environment
+
+- Ensure adequate intimacy, in a warmed room
+- Place the ultrasound device where you can see the screen an access the knobs
+- be sure to have sufficient time for your exam
+- have accessible paper and gel
+
+## Preparation of the patient
+
+- Explain to the patient what you will perform and why, and what is the diagnosis performance and limits of point-of-care ultrasound
+- obtain consent for the exam
+- after the exam, explain to the patient the findings and the implications
